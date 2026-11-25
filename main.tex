@@ -1,0 +1,205 @@
+% !TeX program = xelatex
+\documentclass[a4paper,12pt]{article}
+
+% ------------------------------------------------------------
+% Idioma, fonte e formatação da página
+% ------------------------------------------------------------
+\usepackage[brazil]{babel}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+
+\usepackage[a4paper,margin=2.54cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{indentfirst}
+
+% Títulos de seções e subseções em 12 pt e negrito
+\usepackage{sectsty}
+\allsectionsfont{\normalfont\normalsize\bfseries}
+
+% Fonte exclusiva da capa.
+% Para usar 12 pt também na capa, substitua a definição por:
+% \newcommand{\fonteCapa}{\rmfamily\normalsize}
+\newcommand{\fonteCapa}{\rmfamily\fontsize{14}{17}\selectfont}
+
+% ------------------------------------------------------------
+% Matemática, figuras e tabelas
+% ------------------------------------------------------------
+\usepackage{mathtools}
+\usepackage{empheq}
+\usepackage{systeme}
+\usepackage{siunitx}
+\usepackage[version=4]{mhchem}
+
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage{tabularx}
+
+\setlength{\marginparwidth}{2cm}
+\usepackage[colorinlistoftodos]{todonotes}
+
+% ------------------------------------------------------------
+% Referências bibliográficas
+% ------------------------------------------------------------
+\usepackage{biblatex}
+\addbibresource{refs.bib}
+
+% ------------------------------------------------------------
+% Listagens de código
+% ------------------------------------------------------------
+\usepackage{listings}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    basicstyle=\rmfamily\normalsize,
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\normalfont\normalsize\color{codegray},
+    stringstyle=\color{codepurple},
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    literate=
+        {á}{{\'a}}1 {à}{{\`a}}1 {â}{{\^a}}1 {ã}{{\~a}}1
+        {Á}{{\'A}}1 {À}{{\`A}}1 {Â}{{\^A}}1 {Ã}{{\~A}}1
+        {é}{{\'e}}1 {è}{{\`e}}1 {ê}{{\^e}}1 {ë}{{\"e}}1
+        {É}{{\'E}}1 {Ê}{{\^E}}1
+        {í}{{\'i}}1 {î}{{\^i}}1 {Í}{{\'I}}1 {Î}{{\^I}}1
+        {ó}{{\'o}}1 {ô}{{\^o}}1 {õ}{{\~o}}1
+        {Ó}{{\'O}}1 {Ô}{{\^O}}1 {Õ}{{\~O}}1
+        {ú}{{\'u}}1 {ù}{{\`u}}1 {û}{{\^u}}1 {Ú}{{\'U}}1
+        {ç}{{\c{c}}}1 {Ç}{{\c{C}}}1 {°}{{\textdegree}}1
+}
+\lstset{style=mystyle}
+
+% ------------------------------------------------------------
+% Links e siglas
+% ------------------------------------------------------------
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={Projeto de pesquisa de doutorado},
+    pdfauthor={Antonio Victor de Souza Correa}
+}
+\urlstyle{same}
+
+\usepackage[acronym]{glossaries}
+\makeglossaries
+
+\newacronym{md}{MD}{\textit{Membrane Distillation}}
+\newacronym{agmd}{AGMD}{\textit{Air Gap Membrane Distillation}}
+\newacronym{vmd}{VMD}{\textit{Vacuum Membrane Distillation}}
+\newacronym{dcmd}{DCMD}{\textit{Direct Contact Membrane Distillation}}
+\newacronym{sgmd}{SGMD}{\textit{Sweep Gas Membrane Distillation}}
+\newacronym{pp}{PP}{\textit{Polipropileno}}
+\newacronym{pvdf}{PVDF}{\textit{Fluoreto de polivinilideno}}
+\newacronym{ptfe}{PTFE}{\textit{Politetrafluoretileno}}
+
+% ------------------------------------------------------------
+% Dados da capa
+% ------------------------------------------------------------
+\newcommand{\nomeCandidato}{Antonio Victor de Souza Correa}
+\newcommand{\areaConcentracao}{Termociências e Engenharia Térmica}
+\newcommand{\tituloProjeto}{%
+    Prevenção e recuperação de membranas poliméricas encrustadas
+    de módulos de destilação por membrana com espaçamento de ar
+    através de ultrassom e purga com ar comprimido%
+}
+
+\begin{document}
+
+% ------------------------------------------------------------
+% Capa
+% ------------------------------------------------------------
+\hypersetup{pageanchor=false}
+
+\begin{titlepage}
+    \thispagestyle{empty}
+    \fonteCapa
+
+    \begin{tikzpicture}[
+        remember picture,
+        overlay,
+        every node/.style={inner sep=0pt,outer sep=0pt},
+        texto/.style={text width=\textwidth,align=center}
+    ]
+        % Logos alinhadas às margens de 2,54 cm
+        \node[anchor=north west]
+            at ([xshift=2.54cm,yshift=-2.54cm]current page.north west)
+            {\includegraphics[height=20mm]{ufrj-logo.pdf}};
+
+        \node[anchor=north east]
+            at ([xshift=-2.54cm,yshift=-2.54cm]current page.north east)
+            {\includegraphics[height=20mm]{coppe-logo.pdf}};
+
+        % A largura definida em "texto" permite a quebra automática.
+        \node[texto,anchor=north]
+            at ([yshift=-71mm]current page.north)
+            {Projeto de pesquisa para o curso de doutorado no Programa
+             de Pós-Graduação em Engenharia Mecânica da Universidade
+             Federal do Rio de Janeiro};
+
+        \node[texto]
+            at ([yshift=-132mm]current page.north)
+            {Candidato: \nomeCandidato};
+
+        \node[texto]
+            at ([yshift=-151mm]current page.north)
+            {Área de concentração: \areaConcentracao};
+
+        \node[texto]
+            at ([yshift=-194mm]current page.north)
+            {Título: \tituloProjeto};
+
+        \node[texto,anchor=south]
+            at ([yshift=2.54cm]current page.south)
+            {Rio de Janeiro\\Dezembro de 2026};
+    \end{tikzpicture}
+    \null
+\end{titlepage}
+
+% ------------------------------------------------------------
+% Sumário
+% ------------------------------------------------------------
+\pagenumbering{roman}
+\hypersetup{pageanchor=true}
+\tableofcontents
+\thispagestyle{empty}
+
+% ------------------------------------------------------------
+% Corpo do projeto — Times New Roman 12 pt, espaçamento 1,5
+% ------------------------------------------------------------
+\clearpage
+\pagenumbering{arabic}
+
+\section{Introdução}
+
+O presente trabalho foi realizado ao longo da disciplina Problemas Inversos 2, onde aplicou-se os conceitos apresentados em aula ao problema inverso proposto pelo professor durante a disciplina de problemas inversos 1. Foram aplicados os seguintes métodos: gradiente conjugado para estimativa de funções com problema adjunto, Monte Carlo com cadeia de Markov, filtro de Kalman e filtro de partículas.
+
+Os resultados obtidos foram inseridos após os comentários a respeito dos métodos, enquanto os códigos utilizados foram inseridos em anexos.
+
+% Para exibir as referências citadas no projeto, descomente:
+% \printbibliography[title={Referências bibliográficas}]
+
+\end{document}
