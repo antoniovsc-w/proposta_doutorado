@@ -1,0 +1,165 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Ibrahim2023ProducedWater}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=c4fe201a3ccc52c731dd6f06bd89018a}{%
+           family={Ibrahim},
+           familyi={I\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fca459ebb919362d90020865729bfb41}{%
+           family={Nawaz},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b924973d644934aeccc5c612a2809066}{%
+           family={Rout},
+           familyi={R\bibinitperiod},
+           given={P.\bibnamedelimi R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{fullhash}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{fullhashraw}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{bibnamehash}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{authorbibnamehash}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{authornamehash}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{authorfullhash}{17180aade72e3004d0533ebb1d80bcbb}
+      \strng{authorfullhashraw}{17180aade72e3004d0533ebb1d80bcbb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{number}{16}
+      \field{title}{Advances in Produced Water Treatment Technologies: An In-Depth Exploration with an Emphasis on Membrane-Based Systems and Future Perspectives}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{2980}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/w15162980
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/w15162980
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/w15162980
+      \endverb
+    \endentry
+    \entry{Harkouss2024MembraneBased}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=70ede6d5b5d2fc66afeff4286553c24a}{%
+           family={Harkouss},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=06592cf74a4cc9f70e89586943562242}{%
+           family={Jaafar},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=210b49c2e55d8d40fbd51a53242d3e75}{%
+           family={Ghannam},
+           familyi={G\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{fullhash}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{fullhashraw}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{bibnamehash}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{authorbibnamehash}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{authornamehash}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{authorfullhash}{00f078756c3ba7649f4bf1824dd9388e}
+      \strng{authorfullhashraw}{00f078756c3ba7649f4bf1824dd9388e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sustainable Development of Energy, Water and Environment Systems}
+      \field{number}{4}
+      \field{title}{Membrane-Based Technologies: A Comprehensive Review for Efficient and Environmentally Friendly Treatment of Produced Water in Oil and Gas Industries}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{pages}{1120527}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.13044/j.sdewes.d12.0527
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.13044/j.sdewes.d12.0527
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.13044/j.sdewes.d12.0527
+      \endverb
+    \endentry
+    \entry{Alley2011ProducedWater}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=683d9362e2f306bcead288c10120412f}{%
+           family={Alley},
+           familyi={A\bibinitperiod},
+           given={Bethany},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6b887c35917b8aeaf2d9110767646696}{%
+           family={Beebe},
+           familyi={B\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=06721d70ac1146b0b1182e1f876d32e2}{%
+           family={Rodgers},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           suffix={Jr.},
+           suffixi={J\bibinitperiod}}}%
+        {{hash=50f4b1529a1e97a7d4d5004edcd370de}{%
+           family={Castle},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f72b8733ce8207437adac822faf485ae}
+      \strng{fullhash}{7802fa435e1b0c4876aa48a2cde490a2}
+      \strng{fullhashraw}{7802fa435e1b0c4876aa48a2cde490a2}
+      \strng{bibnamehash}{f72b8733ce8207437adac822faf485ae}
+      \strng{authorbibnamehash}{f72b8733ce8207437adac822faf485ae}
+      \strng{authornamehash}{f72b8733ce8207437adac822faf485ae}
+      \strng{authorfullhash}{7802fa435e1b0c4876aa48a2cde490a2}
+      \strng{authorfullhashraw}{7802fa435e1b0c4876aa48a2cde490a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemosphere}
+      \field{title}{Chemical and Physical Characterization of Produced Waters from Conventional and Unconventional Fossil Fuel Resources}
+      \field{volume}{85}
+      \field{year}{2011}
+      \field{pages}{74\bibrangedash 82}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

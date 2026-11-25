@@ -47,9 +47,8 @@
 % ------------------------------------------------------------
 % Referências bibliográficas
 % ------------------------------------------------------------
-\usepackage{biblatex}
-\addbibresource{refs.bib}
-
+\usepackage[backend=biber,style=numeric,sorting=none]{biblatex}
+\addbibresource{referencias.bib}
 % ------------------------------------------------------------
 % Listagens de código
 % ------------------------------------------------------------
@@ -195,11 +194,25 @@
 
 \section{Introdução}
 
-O presente trabalho foi realizado ao longo da disciplina Problemas Inversos 2, onde aplicou-se os conceitos apresentados em aula ao problema inverso proposto pelo professor durante a disciplina de problemas inversos 1. Foram aplicados os seguintes métodos: gradiente conjugado para estimativa de funções com problema adjunto, Monte Carlo com cadeia de Markov, filtro de Kalman e filtro de partículas.
+A água de produção é o principal rejeito da industria de óleo e gás, com geração diária de aproximadamente 39,75 milhões de metros cúbicos por dia~\cite{Ibrahim2023ProducedWater,Harkouss2024MembraneBased}, a qual é considerada em geral como salina ou hipersalina, com cloreto variando entre 36 a 210.224~$mgL^{-1}$~\cite{Alley2011ProducedWater}.
 
-Os resultados obtidos foram inseridos após os comentários a respeito dos métodos, enquanto os códigos utilizados foram inseridos em anexos.
+A destilação por membranas (MD) é um processo térmico movido pela diferença de pressão de vapor entre as superfícies da membrana, o qual é capaz de operar de forma estável com 1.000~$ppm$ de óleo e até 150.000~$ppm$ de sais, enquanto o processo de osmose reversa perde desempenho ao tratar soluções com 2.000~$ppm$ de sais e 150~$ppm$ de óleo~\cite{Mansi2023ProducedWater}.
+
+O processo de destilação por membrana varia em função do modo como o permeado é recuperado. Nos módulos de destilação por membrana com espaçamento de ar, o vapor que permeia pelos poros da memebrana é condensado em uma placa de resfriamento e conduzido para um reservatório~\cite{Olatunji2018HeatMassTransport}.
+
+Um dos obstáculos para a aplicação em campo é a queda de desempenho acarretada pela ocorrência de \textit{fouling} durante o tratamento de água de produção real, o que reduz o fluxo de permeado e auxilia a ocorrência de \textit{wetting}. Observa-se na literatura o uso de diversas técnicas para a restauração do fluxo, como pré tratamentos, aplicação de produtos químicos e limpeza da superfície com água, de modo a restaurar parcial ou completamente o fluxo de permeado. Entretanto, tais procedimentos consomem água, interrompem a operação ou precisam da compra, transporte e armazenamento de produtos químicos.
+
+Estre projeto propõe avaliar 
+
+\section{Relevância do tema}
+
+\section{Objetivos do projeto}
+
+\section{Metodologia}
+
+\section{Viabilidade do projeto}
 
 % Para exibir as referências citadas no projeto, descomente:
-% \printbibliography[title={Referências bibliográficas}]
+\printbibliography[title={Referências bibliográficas}]
 
 \end{document}
