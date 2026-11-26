@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bcf:controlfile version="3.11" bltxversion="3.22a" xmlns:bcf="https://sourceforge.net/projects/biblatex">
+<bcf:controlfile version="3.11" bltxversion="3.21" xmlns:bcf="https://sourceforge.net/projects/biblatex">
   <!-- BIBER OPTIONS -->
   <bcf:options component="biber" type="global">
     <bcf:option type="singlevalued">
@@ -2376,6 +2376,40 @@
     <bcf:citekey order="1" intorder="1">Ibrahim2023ProducedWater</bcf:citekey>
     <bcf:citekey order="1" intorder="2">Harkouss2024MembraneBased</bcf:citekey>
     <bcf:citekey order="2" intorder="1">Alley2011ProducedWater</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">OzgunProducedWater</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Mansi2023ProducedWater</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Olatunji2018HeatMassTransport</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Mansi2023ProducedWater</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Warsinger2017ReversingWetting</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">Mansi2023ProducedWater</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Zhang2019ProducedWater</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">Alkhatib2021FoulingMitigation</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Duong2016MembraneScaling</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">Amin2023BiofilmCleaning</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Lee2025MembraneVibration</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">Tomczak2022OperationalParameters</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Duong2016MembraneScaling</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">Zhang2019ProducedWater</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">Lee2025MembraneVibration</bcf:citekey>
+    <bcf:citekey order="11" intorder="4">Amin2023BiofilmCleaning</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Pawar2022LaboratoryPilotScale</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">Nawaz2021FluxStability</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Regmi2023ProducedWater</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">Pawar2022AGMD</bcf:citekey>
+    <bcf:citekey order="13" intorder="3">Pawar2022</bcf:citekey>
+    <bcf:citekey order="13" intorder="4">Zhang2019ProducedWater</bcf:citekey>
+    <bcf:citekey order="13" intorder="5">Fernandez2025ZeroLiquidDischarge</bcf:citekey>
+    <bcf:citekey order="13" intorder="6">Wang2023ShaleGasWastewater</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Choi2019PhysicalCleaning</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Lee2025MembraneVibration</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Horseman2019GasPurging</bcf:citekey>
+    <bcf:citekey order="16" intorder="2">Warsinger2017ReversingWetting</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Zhu1999UltrasonicAGMD</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Naji2020UltrasoundAGMD</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">Aljuboori2021UltrasonicSpacers</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Choi2019PhysicalCleaning</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">Bamasag2021UltrasoundSVMD</bcf:citekey>
+    <bcf:citekey order="19" intorder="3">Cho2019UltrasonicCleaning</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

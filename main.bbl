@@ -159,6 +159,1242 @@
       \field{pages}{74\bibrangedash 82}
       \range{pages}{9}
     \endentry
+    \entry{OzgunProducedWater}{article}{}{}
+      \name{author}{11}{}{%
+        {{hash=ba4713b41dee6ba4010c5400505fb5e1}{%
+           family={Ozgun},
+           familyi={O\bibinitperiod},
+           given={Hale},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9faa3117d740985257e501e9467f4e2e}{%
+           family={Ersahin},
+           familyi={E\bibinitperiod},
+           given={Mustafa\bibnamedelima Evren},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=df7c13a0da7030a8ba1bbb98954f2d4d}{%
+           family={Erdem},
+           familyi={E\bibinitperiod},
+           given={Selime},
+           giveni={S\bibinitperiod}}}%
+        {{hash=740a485a648f3490d6e9e3b2a1fe9834}{%
+           family={Atay},
+           familyi={A\bibinitperiod},
+           given={Burcu},
+           giveni={B\bibinitperiod}}}%
+        {{hash=21bbde2c4379c78c39639864921bd6d9}{%
+           family={Sayili},
+           familyi={S\bibinitperiod},
+           given={Sema},
+           giveni={S\bibinitperiod}}}%
+        {{hash=91b614305147d0a39438148bd57ffdd0}{%
+           family={Eren},
+           familyi={E\bibinitperiod},
+           given={Esra},
+           giveni={E\bibinitperiod}}}%
+        {{hash=61977df50bc4316cc9569f0d77d40291}{%
+           family={Hoshan},
+           familyi={H\bibinitperiod},
+           given={Pelin},
+           giveni={P\bibinitperiod}}}%
+        {{hash=69f902fb628eff182f13630f530632c2}{%
+           family={Atay},
+           familyi={A\bibinitperiod},
+           given={Doga},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3e3a564737dea40e1218aa93f01f6b02}{%
+           family={Altinbas},
+           familyi={A\bibinitperiod},
+           given={Mahmut},
+           giveni={M\bibinitperiod}}}%
+        {{hash=728304bbc6bac7832b8331e93dad7fa6}{%
+           family={Kinaci},
+           familyi={K\bibinitperiod},
+           given={Cumali},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3e040a540455ef796d83f94a75c0519b}{%
+           family={Koyuncu},
+           familyi={K\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{79fc0705f280ef863d021f437e372f97}
+      \strng{fullhash}{160b5a46e274ffffabf74c5f22b0a14c}
+      \strng{fullhashraw}{160b5a46e274ffffabf74c5f22b0a14c}
+      \strng{bibnamehash}{79fc0705f280ef863d021f437e372f97}
+      \strng{authorbibnamehash}{79fc0705f280ef863d021f437e372f97}
+      \strng{authornamehash}{79fc0705f280ef863d021f437e372f97}
+      \strng{authorfullhash}{160b5a46e274ffffabf74c5f22b0a14c}
+      \strng{authorfullhashraw}{160b5a46e274ffffabf74c5f22b0a14c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CLEAN -- Soil, Air, Water}
+      \field{title}{Comparative Evaluation for Characterization of Produced Water Generated from Oil, Gas, and Oil--Gas Production Fields}
+      \verb{doi}
+      \verb 10.1002/clen.201200204
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1002/clen.201200204
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/clen.201200204
+      \endverb
+    \endentry
+    \entry{Mansi2023ProducedWater}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=adae75d4a7e568e2283c8c2db762e8c5}{%
+           family={Mansi},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2592a9287b5c916ac1cda84ebac458f1}{%
+           family={El-Marsafy},
+           familyi={E\bibinithyphendelim M\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d82cbe1a38259a8ea36ba365961aa9a2}{%
+           family={Elhenawy},
+           familyi={E\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ed7a8815a91b1e5fe3be49b2a5747c34}{%
+           family={Bassyouni},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f7e104a0a679175290789fb85528aa0}
+      \strng{fullhash}{bed83977db2b540332f3acb2cf401fc1}
+      \strng{fullhashraw}{bed83977db2b540332f3acb2cf401fc1}
+      \strng{bibnamehash}{8f7e104a0a679175290789fb85528aa0}
+      \strng{authorbibnamehash}{8f7e104a0a679175290789fb85528aa0}
+      \strng{authornamehash}{8f7e104a0a679175290789fb85528aa0}
+      \strng{authorfullhash}{bed83977db2b540332f3acb2cf401fc1}
+      \strng{authorfullhashraw}{bed83977db2b540332f3acb2cf401fc1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alexandria Engineering Journal}
+      \field{title}{Assessing the Potential and Limitations of Membrane-Based Technologies for the Treatment of Oilfield Produced Water}
+      \field{volume}{68}
+      \field{year}{2023}
+      \field{pages}{787\bibrangedash 815}
+      \range{pages}{29}
+    \endentry
+    \entry{Olatunji2018HeatMassTransport}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2e6b9a2780af73fc9464330182022378}{%
+           family={Olatunji},
+           familyi={O\bibinitperiod},
+           given={S.\bibnamedelimi O.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=2115ccbcfbbaf75d17469deb4cb9cead}{%
+           family={Camacho},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{fullhash}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{fullhashraw}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{bibnamehash}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{authorbibnamehash}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{authornamehash}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{authorfullhash}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \strng{authorfullhashraw}{1f3c1ad8bf96448f2b7d5a211927f42c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Energy Research}
+      \field{title}{Heat and Mass Transport in Modeling Membrane Distillation Configurations: A Review}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{130}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fenrg.2018.00130
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fenrg.2018.00130
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fenrg.2018.00130
+      \endverb
+    \endentry
+    \entry{Warsinger2017ReversingWetting}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=d9d1d6b0c696a28c1f3c5d15d76cea79}{%
+           family={Warsinger},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=670affeee2e5eb65cc62ec452565705e}{%
+           family={Servi},
+           familyi={S\bibinitperiod},
+           given={Amelia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fc6f932ca7fc875423a6cb84d62c07d8}{%
+           family={Connors},
+           familyi={C\bibinitperiod},
+           given={Grace\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e68f4bd27f60bdb4f0fecb93b7b4fa64}{%
+           family={Mavukkandy},
+           familyi={M\bibinitperiod},
+           given={Musthafa\bibnamedelima O.},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=365d401adc501cff12df16254715e751}{%
+           family={Arafat},
+           familyi={A\bibinitperiod},
+           given={Hassan\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=74ad85ec7f0a8a62a2e8f196d2965bf3}{%
+           family={Gleason},
+           familyi={G\bibinitperiod},
+           given={Karen\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=567b59f8016ce80b1d9f2ac86acbcc7f}{%
+           family={Lienhard},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffix={V},
+           suffixi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5df8c7dc415f95141a2fd30d4383b01a}
+      \strng{fullhash}{6a886793cd5479071df4ac5141cf2fb5}
+      \strng{fullhashraw}{6a886793cd5479071df4ac5141cf2fb5}
+      \strng{bibnamehash}{5df8c7dc415f95141a2fd30d4383b01a}
+      \strng{authorbibnamehash}{5df8c7dc415f95141a2fd30d4383b01a}
+      \strng{authornamehash}{5df8c7dc415f95141a2fd30d4383b01a}
+      \strng{authorfullhash}{6a886793cd5479071df4ac5141cf2fb5}
+      \strng{authorfullhashraw}{6a886793cd5479071df4ac5141cf2fb5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science: Water Research \& Technology}
+      \field{month}{7}
+      \field{title}{Reversing Membrane Wetting in Membrane Distillation: Comparing Dryout to Backwashing with Pressurized Air}
+      \field{volume}{3}
+      \field{year}{2017}
+      \field{pages}{930}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1039/c7ew00085e
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/c7ew00085e
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/c7ew00085e
+      \endverb
+    \endentry
+    \entry{Zhang2019ProducedWater}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3d30d88bbf2ef90e79a4d46e01039ec0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zuoyou},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=bf5d4fbcc4a4ea75783ce114a98e9e9e}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Xuewei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e09312424343a1c3ce923fe9ff104d98}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={Kenneth\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6b788036d89a19b3a7d77ae931e0869e}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5f525e0eb835cf1b143a4e9f4599f104}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Tiezheng},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc2a9ab198fe88a917be8e9760a0c0b2}
+      \strng{fullhash}{0a18a28e802535fdc1a420eca82b7e52}
+      \strng{fullhashraw}{0a18a28e802535fdc1a420eca82b7e52}
+      \strng{bibnamehash}{bc2a9ab198fe88a917be8e9760a0c0b2}
+      \strng{authorbibnamehash}{bc2a9ab198fe88a917be8e9760a0c0b2}
+      \strng{authornamehash}{bc2a9ab198fe88a917be8e9760a0c0b2}
+      \strng{authorfullhash}{0a18a28e802535fdc1a420eca82b7e52}
+      \strng{authorfullhashraw}{0a18a28e802535fdc1a420eca82b7e52}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Desalination}
+      \field{title}{Effective Treatment of Shale Oil and Gas Produced Water by Membrane Distillation Coupled with Precipitative Softening and Walnut Shell Filtration}
+      \field{volume}{454}
+      \field{year}{2019}
+      \field{pages}{82\bibrangedash 90}
+      \range{pages}{9}
+    \endentry
+    \entry{Alkhatib2021FoulingMitigation}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0cc68bb6ff9b9f544f2b78c3ecc2f826}{%
+           family={Alkhatib},
+           familyi={A\bibinitperiod},
+           given={Amira},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20fee29c97f265a2903c424b28d8f511}{%
+           family={Ayari},
+           familyi={A\bibinitperiod},
+           given={Mohamed\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ddf7455f333546cae61335bc598dee2a}{%
+           family={Hawari},
+           familyi={H\bibinitperiod},
+           given={Alaa\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{fullhash}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{fullhashraw}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{bibnamehash}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{authorbibnamehash}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{authornamehash}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{authorfullhash}{d43710a8d7109c9010ed0fc4f05584c6}
+      \strng{authorfullhashraw}{d43710a8d7109c9010ed0fc4f05584c6}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering and Processing - Process Intensification}
+      \field{title}{Fouling Mitigation Strategies for Different Foulants in Membrane Distillation}
+      \field{volume}{167}
+      \field{year}{2021}
+      \field{pages}{108517}
+      \range{pages}{1}
+    \endentry
+    \entry{Duong2016MembraneScaling}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=aa73a155ff06b01f53684934a9ed98c4}{%
+           family={Duong},
+           familyi={D\bibinitperiod},
+           given={Hung\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=54f60dc5861da239c95518bdf41e4f58}{%
+           family={Duke},
+           familyi={D\bibinitperiod},
+           given={Mikel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=557a036d9fb4b11f940577f657c8ff06}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1c15c2e06eb241088bf45385d8e82d6d}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0735924748211da4886ccd61365b981a}{%
+           family={Nghiem},
+           familyi={N\bibinitperiod},
+           given={Long\bibnamedelima D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{77a07d2f21f716a83e6fe6fbe99a0c44}
+      \strng{fullhash}{7f2e3cd6bbcb9fce4fbbd1e24d4f6f29}
+      \strng{fullhashraw}{7f2e3cd6bbcb9fce4fbbd1e24d4f6f29}
+      \strng{bibnamehash}{77a07d2f21f716a83e6fe6fbe99a0c44}
+      \strng{authorbibnamehash}{77a07d2f21f716a83e6fe6fbe99a0c44}
+      \strng{authornamehash}{77a07d2f21f716a83e6fe6fbe99a0c44}
+      \strng{authorfullhash}{7f2e3cd6bbcb9fce4fbbd1e24d4f6f29}
+      \strng{authorfullhashraw}{7f2e3cd6bbcb9fce4fbbd1e24d4f6f29}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Desalination}
+      \field{title}{Membrane Scaling and Prevention Techniques During Seawater Desalination by Air Gap Membrane Distillation}
+      \field{volume}{397}
+      \field{year}{2016}
+      \field{pages}{92\bibrangedash 100}
+      \range{pages}{9}
+    \endentry
+    \entry{Amin2023BiofilmCleaning}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=a6e951098deac45acb87e33798cfa229}{%
+           family={Amin},
+           familyi={A\bibinitperiod},
+           given={Najat\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bb1e48a9419d84b9e4281d33034e638f}{%
+           family={Elcik},
+           familyi={E\bibinitperiod},
+           given={Harun},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e1b60e0ef216de7ea4d3725bc6d54694}{%
+           family={Alpatova},
+           familyi={A\bibinitperiod},
+           given={Alla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=92bca0ab3d4817c8f21f6711fbc43967}{%
+           family={Gonzalez-Gil},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Graciela},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2239c423bb17bc073676462126dd7c3f}{%
+           family={Blankert},
+           familyi={B\bibinitperiod},
+           given={Bastiaan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=52523c35ba6bcee109cf58ad21f4429c}{%
+           family={Farhat},
+           familyi={F\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ccd94d09360950d02097fb98c85077fb}{%
+           family={Vrouwenvelder},
+           familyi={V\bibinitperiod},
+           given={Johannes\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d57bd413209888bd0d485065f9659901}{%
+           family={Ghaffour},
+           familyi={G\bibinitperiod},
+           given={Noreddine},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a649143db2f4cdc77d3b71544f536b9}
+      \strng{fullhash}{84f2a862acf5be8df88b5760e0b577e1}
+      \strng{fullhashraw}{84f2a862acf5be8df88b5760e0b577e1}
+      \strng{bibnamehash}{1a649143db2f4cdc77d3b71544f536b9}
+      \strng{authorbibnamehash}{1a649143db2f4cdc77d3b71544f536b9}
+      \strng{authornamehash}{1a649143db2f4cdc77d3b71544f536b9}
+      \strng{authorfullhash}{84f2a862acf5be8df88b5760e0b577e1}
+      \strng{authorfullhashraw}{84f2a862acf5be8df88b5760e0b577e1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{npj Clean Water}
+      \field{title}{Selected Physical and Chemical Cleanings Remove Biofilm in Seawater Membrane Distillation Without Causing Pore Wetting}
+      \field{volume}{6}
+      \field{year}{2023}
+      \field{pages}{61}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41545-023-00278-2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41545-023-00278-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41545-023-00278-2
+      \endverb
+    \endentry
+    \entry{Lee2025MembraneVibration}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=c59af2225234a90fd0ef51c18a1d4530}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Juyoung},
+           giveni={J\bibinitperiod}}}%
+        {{hash=752c8ae0a1903680342d45acaa1677ba}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Youngkyu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bbb5d0a30d87e7b73e8b6718cfa67f38}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yongjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf708aff8d085372e2884ba95dbbd444}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sangho},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{258ffba0389e154c66993396d216dff4}
+      \strng{fullhash}{686cdb489f933840aba15837bdcc4d29}
+      \strng{fullhashraw}{686cdb489f933840aba15837bdcc4d29}
+      \strng{bibnamehash}{258ffba0389e154c66993396d216dff4}
+      \strng{authorbibnamehash}{258ffba0389e154c66993396d216dff4}
+      \strng{authornamehash}{258ffba0389e154c66993396d216dff4}
+      \strng{authorfullhash}{686cdb489f933840aba15837bdcc4d29}
+      \strng{authorfullhashraw}{686cdb489f933840aba15837bdcc4d29}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Process Engineering}
+      \field{title}{Influence of Membrane Vibration on Calcium Sulfate Crystallization and Fouling Mitigation in Direct Contact Membrane Distillation}
+      \field{volume}{71}
+      \field{year}{2025}
+      \field{pages}{107364}
+      \range{pages}{1}
+    \endentry
+    \entry{Tomczak2022OperationalParameters}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=070a173a05099d5e78a5bbc6b33edd06}{%
+           family={Tomczak},
+           familyi={T\bibinitperiod},
+           given={Wirginia},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ac06137e6fec7c942aa72437d491b0c4}{%
+           family={Gryta},
+           familyi={G\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f380bdbc743d75b202663985a40124c}
+      \strng{fullhash}{5f380bdbc743d75b202663985a40124c}
+      \strng{fullhashraw}{5f380bdbc743d75b202663985a40124c}
+      \strng{bibnamehash}{5f380bdbc743d75b202663985a40124c}
+      \strng{authorbibnamehash}{5f380bdbc743d75b202663985a40124c}
+      \strng{authornamehash}{5f380bdbc743d75b202663985a40124c}
+      \strng{authorfullhash}{5f380bdbc743d75b202663985a40124c}
+      \strng{authorfullhashraw}{5f380bdbc743d75b202663985a40124c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Membranes}
+      \field{month}{3}
+      \field{title}{The Impact of Operational Parameters on Polypropylene Membrane Performance during the Separation of Oily Saline Wastewaters by the Membrane Distillation Process}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{351}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/membranes12040351
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/membranes12040351
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/membranes12040351
+      \endverb
+    \endentry
+    \entry{Pawar2022LaboratoryPilotScale}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1bdda87ad801cf3d2b9d6f41cea3c6af}{%
+           family={Pawar},
+           familyi={P\bibinitperiod},
+           given={Ritesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=88ab81639cbfcdae8d333bcf6978c3da}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhewei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8d8564689dfdfad8ac61198620a76573}{%
+           family={Vidic},
+           familyi={V\bibinitperiod},
+           given={Radisav\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{fullhash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{fullhashraw}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{bibnamehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authorbibnamehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authornamehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authorfullhash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authorfullhashraw}{42b09dade97a24a77b38e0a5aa80ecec}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{115853}
+      \field{journaltitle}{Desalination}
+      \field{title}{Laboratory and pilot-scale studies of membrane distillation for desalination of produced water from Permian Basin}
+      \field{volume}{537}
+      \field{year}{2022}
+    \endentry
+    \entry{Nawaz2021FluxStability}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=494018e76c8a93c0a1ff0f4f3a2aedb7}{%
+           family={Nawaz},
+           familyi={N\bibinitperiod},
+           given={Muhammad\bibnamedelima Saqib},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=742d504b2eb934495e28d2160ce3bdd6}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Hyuk\bibnamedelima Soo},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c12eb651a13fe666deda6766ae3e7c22}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=49a9a4ea52057defdfaca8104a5d6102}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Youngjin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=35dee4e11c97e5d360e694bac9606fa3}{%
+           family={Soukane},
+           familyi={S\bibinitperiod},
+           given={Sofiane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=357f87459c63ecd76210bb72367233ec}{%
+           family={Al-Hajji},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Mohammed\bibnamedelima Ali},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f17e45c8307a7b393750fc1e551f95eb}{%
+           family={Abu-Ghdaib},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Muhannad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d57bd413209888bd0d485065f9659901}{%
+           family={Ghaffour},
+           familyi={G\bibinitperiod},
+           given={Noreddine},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{82a91bab6dedc0de08694345ceaeb317}
+      \strng{fullhash}{e1edd43083320d336417eb0a55e2bb16}
+      \strng{fullhashraw}{e1edd43083320d336417eb0a55e2bb16}
+      \strng{bibnamehash}{82a91bab6dedc0de08694345ceaeb317}
+      \strng{authorbibnamehash}{82a91bab6dedc0de08694345ceaeb317}
+      \strng{authornamehash}{82a91bab6dedc0de08694345ceaeb317}
+      \strng{authorfullhash}{e1edd43083320d336417eb0a55e2bb16}
+      \strng{authorfullhashraw}{e1edd43083320d336417eb0a55e2bb16}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigation of flux stability and fouling mechanism during simultaneous treatment of different produced water streams using forward osmosis and membrane distillation}
+      \field{year}{2021}
+    \endentry
+    \entry{Regmi2023ProducedWater}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=324825e6f8f2855d030df79251e88f5a}{%
+           family={Regmi},
+           familyi={R\bibinitperiod},
+           given={Chhabilal},
+           giveni={C\bibinitperiod}}}%
+        {{hash=52d5a928e5768c41f53c5a0ecc8f543e}{%
+           family={Thamaraiselvan},
+           familyi={T\bibinitperiod},
+           given={Chidambaram},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8c1fdf044f973d61153e9a019590ec48}{%
+           family={Jebur},
+           familyi={J\bibinitperiod},
+           given={Mahmood},
+           giveni={M\bibinitperiod}}}%
+        {{hash=389ab35e636517c12cd490bf5b3adfcb}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Xianghong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=49a54e74f289137481dbb9c8a058f54d}{%
+           family={Wickramasinghe},
+           familyi={W\bibinitperiod},
+           given={Ranil},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7ad8a02759f271394b077b4a01885ce2}
+      \strng{fullhash}{8f972acf14fffed89a44463848cb47ff}
+      \strng{fullhashraw}{8f972acf14fffed89a44463848cb47ff}
+      \strng{bibnamehash}{7ad8a02759f271394b077b4a01885ce2}
+      \strng{authorbibnamehash}{7ad8a02759f271394b077b4a01885ce2}
+      \strng{authornamehash}{7ad8a02759f271394b077b4a01885ce2}
+      \strng{authorfullhash}{8f972acf14fffed89a44463848cb47ff}
+      \strng{authorfullhashraw}{8f972acf14fffed89a44463848cb47ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Journal}
+      \field{note}{Available online 22 November 2023}
+      \field{title}{Advancing Produced Water Treatment: Scaling Up {EC-MF-MDC} Technology from Lab to Pilot Scale}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1016/j.cej.2023.146877
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.cej.2023.146877
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.cej.2023.146877
+      \endverb
+    \endentry
+    \entry{Pawar2022AGMD}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1bdda87ad801cf3d2b9d6f41cea3c6af}{%
+           family={Pawar},
+           familyi={P\bibinitperiod},
+           given={Ritesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=88ab81639cbfcdae8d333bcf6978c3da}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhewei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8d8564689dfdfad8ac61198620a76573}{%
+           family={Vidic},
+           familyi={V\bibinitperiod},
+           given={Radisav\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{fullhash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{fullhashraw}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{bibnamehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authorbibnamehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authornamehash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authorfullhash}{42b09dade97a24a77b38e0a5aa80ecec}
+      \strng{authorfullhashraw}{42b09dade97a24a77b38e0a5aa80ecec}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Desalination}
+      \field{title}{Laboratory and pilot-scale studies of membrane distillation for desalination of produced water from Permian Basin}
+      \field{volume}{537}
+      \field{year}{2022}
+      \field{pages}{115853}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.desal.2022.115853
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.desal.2022.115853
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.desal.2022.115853
+      \endverb
+    \endentry
+    \entry{Pawar2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=1bdda87ad801cf3d2b9d6f41cea3c6af}{%
+           family={Pawar},
+           familyi={P\bibinitperiod},
+           given={Ritesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=88ab81639cbfcdae8d333bcf6978c3da}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhewei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ca7669b2f526b056cff40d505d9a6b14}{%
+           family={Rhoades},
+           familyi={R\bibinitperiod},
+           given={Andrea\bibnamedelima Hanson},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c98bf97fb4e5c6017149a0ad003b9698}{%
+           family={Blotevogel},
+           familyi={B\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d8564689dfdfad8ac61198620a76573}{%
+           family={Vidic},
+           familyi={V\bibinitperiod},
+           given={Radisav\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{aa5d8bbdd8907026c34f6d8a6884dd3e}
+      \strng{fullhash}{3d7161297976bf5309fd107bc4163aea}
+      \strng{fullhashraw}{3d7161297976bf5309fd107bc4163aea}
+      \strng{bibnamehash}{aa5d8bbdd8907026c34f6d8a6884dd3e}
+      \strng{authorbibnamehash}{aa5d8bbdd8907026c34f6d8a6884dd3e}
+      \strng{authornamehash}{aa5d8bbdd8907026c34f6d8a6884dd3e}
+      \strng{authorfullhash}{3d7161297976bf5309fd107bc4163aea}
+      \strng{authorfullhashraw}{3d7161297976bf5309fd107bc4163aea}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2690-0637}
+      \field{journaltitle}{ACS ES\&T Water}
+      \field{number}{6}
+      \field{title}{Impact of Organic and Volatile Compounds in Produced Water from Unconventional Reservoirs on Direct Contact Membrane Distillation Permeate Quality}
+      \field{volume}{2}
+      \field{year}{2022}
+      \field{pages}{1003\bibrangedash 1012}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/acsestwater.1c00496
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/acsestwater.1c00496
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/acsestwater.1c00496
+      \endverb
+    \endentry
+    \entry{Fernandez2025ZeroLiquidDischarge}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=e492fa2d29e303a2e2e0fb2e974b4084}{%
+           family={Fernandez},
+           familyi={F\bibinitperiod},
+           given={Gabriela\bibnamedelima Torres},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9c43a7d74e0e3281f85320a7cb3d5df0}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zongjie},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c09d280d4f287795f228860b1125a1b3}{%
+           family={Kessie},
+           familyi={K\bibinitperiod},
+           given={Jeremiah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d5f218ae7f48f50646fbaf4b2f117917}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jianjia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa7fe20c38d778708640bff22b51aee8}
+      \strng{fullhash}{2eb5075cdd1d860e699e79c07d31641c}
+      \strng{fullhashraw}{2eb5075cdd1d860e699e79c07d31641c}
+      \strng{bibnamehash}{aa7fe20c38d778708640bff22b51aee8}
+      \strng{authorbibnamehash}{aa7fe20c38d778708640bff22b51aee8}
+      \strng{authornamehash}{aa7fe20c38d778708640bff22b51aee8}
+      \strng{authorfullhash}{2eb5075cdd1d860e699e79c07d31641c}
+      \strng{authorfullhashraw}{2eb5075cdd1d860e699e79c07d31641c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Membranes}
+      \field{month}{9}
+      \field{title}{Zero Liquid Discharge of High-Salinity Produced Water via Integrated Membrane Distillation and Crystallization: Experimental Study and Techno-Economic Analysis}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{281}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/membranes15090281
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/membranes15090281
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/membranes15090281
+      \endverb
+    \endentry
+    \entry{Wang2023ShaleGasWastewater}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=8867ec7ba406060d80adc69093d45bd2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuting},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7b8e49e0c43a406bc29015b1070ac16e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Haoquan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=256972f83354335999e8e4d0d0c7c993}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ruixue},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a8b7d03feedd776603216246a04eb2da}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Die},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b72846c7bce9dc4527c22588488d735a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=667ef74f080808f5f4505ec5e5bb0c44}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Le},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6e623c15f04245bf881a14e8731c0f1}
+      \strng{fullhash}{a93d7b2389e45499ff694076cd2cb2e9}
+      \strng{fullhashraw}{a93d7b2389e45499ff694076cd2cb2e9}
+      \strng{bibnamehash}{f6e623c15f04245bf881a14e8731c0f1}
+      \strng{authorbibnamehash}{f6e623c15f04245bf881a14e8731c0f1}
+      \strng{authornamehash}{f6e623c15f04245bf881a14e8731c0f1}
+      \strng{authorfullhash}{a93d7b2389e45499ff694076cd2cb2e9}
+      \strng{authorfullhashraw}{a93d7b2389e45499ff694076cd2cb2e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{month}{1}
+      \field{title}{Desalinating Real Shale Gas Wastewater by Membrane Distillation: Performance and Potentials}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{439}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/w15030439
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/w15030439
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/w15030439
+      \endverb
+    \endentry
+    \entry{Choi2019PhysicalCleaning}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=bb309c6eac03ffa88e35adf4751ec628}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Jihyeok},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbb5d0a30d87e7b73e8b6718cfa67f38}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yongjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=15e109a81a037cdce8c4c1b12b80f969}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Yongsun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4d075df1f3e5814cd13303d4dcd64579}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Yonghyun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf708aff8d085372e2884ba95dbbd444}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sangho},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9cd702fac1aa2c85f128255926415e5}
+      \strng{fullhash}{61da47c205008916d0f9f4a355bfe200}
+      \strng{fullhashraw}{61da47c205008916d0f9f4a355bfe200}
+      \strng{bibnamehash}{f9cd702fac1aa2c85f128255926415e5}
+      \strng{authorbibnamehash}{f9cd702fac1aa2c85f128255926415e5}
+      \strng{authornamehash}{f9cd702fac1aa2c85f128255926415e5}
+      \strng{authorfullhash}{61da47c205008916d0f9f4a355bfe200}
+      \strng{authorfullhashraw}{61da47c205008916d0f9f4a355bfe200}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Desalination and Water Treatment}
+      \field{month}{3}
+      \field{title}{Comparison of Physical Cleaning Techniques for Membrane Distillation: Temperature Reversal, Air Sparging, and Ultrasonication}
+      \field{volume}{143}
+      \field{year}{2019}
+      \field{pages}{38\bibrangedash 47}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5004/dwt.2019.23380
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5004/dwt.2019.23380
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5004/dwt.2019.23380
+      \endverb
+    \endentry
+    \entry{Horseman2019GasPurging}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=67d22931a27a685afa42a38209453fcc}{%
+           family={Horseman},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=486ddde375f818af00c4a732cf3d9b14}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Chunlei},
+           giveni={C\bibinitperiod}}}%
+        {{hash=69198bffbd30f2d29c5ff676534329a7}{%
+           family={Christie},
+           familyi={C\bibinitperiod},
+           given={Kofi\bibnamedelimb S.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f2d7dfaa437322123b33975dd28d9ece}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Shihong},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{021b7354c0a8953980c5251acf407c4f}
+      \strng{fullhash}{e90cc6daf43d5884c90c2fddea8233b5}
+      \strng{fullhashraw}{e90cc6daf43d5884c90c2fddea8233b5}
+      \strng{bibnamehash}{021b7354c0a8953980c5251acf407c4f}
+      \strng{authorbibnamehash}{021b7354c0a8953980c5251acf407c4f}
+      \strng{authornamehash}{021b7354c0a8953980c5251acf407c4f}
+      \strng{authorfullhash}{e90cc6daf43d5884c90c2fddea8233b5}
+      \strng{authorfullhashraw}{e90cc6daf43d5884c90c2fddea8233b5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science \& Technology Letters}
+      \field{title}{Highly Effective Scaling Mitigation in Membrane Distillation Using a Superhydrophobic Membrane with Gas Purging}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{423\bibrangedash 429}
+      \range{pages}{7}
+    \endentry
+    \entry{Zhu1999UltrasonicAGMD}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=9c4f74447bd064e137b853534877a881}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9874a2718f800f3936d8b78cfb2d722d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5b8f60462e239718559135d61c481879}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=55799b467963dd861f99a037a94b6e36}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={C.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6b5c94437bcc4082591475b00d50754f}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Z.\bibnamedelimi C.},
+           giveni={Z\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5502c09b6b639cc68dcdf7cb1badccd2}
+      \strng{fullhash}{8d27c1fc5f15f2b1882154ea5e977859}
+      \strng{fullhashraw}{8d27c1fc5f15f2b1882154ea5e977859}
+      \strng{bibnamehash}{5502c09b6b639cc68dcdf7cb1badccd2}
+      \strng{authorbibnamehash}{5502c09b6b639cc68dcdf7cb1badccd2}
+      \strng{authornamehash}{5502c09b6b639cc68dcdf7cb1badccd2}
+      \strng{authorfullhash}{8d27c1fc5f15f2b1882154ea5e977859}
+      \strng{authorfullhashraw}{8d27c1fc5f15f2b1882154ea5e977859}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Membrane Science}
+      \field{title}{Ultrasonic Stimulation on Enhancement of Air Gap Membrane Distillation}
+      \field{volume}{161}
+      \field{year}{1999}
+      \field{pages}{85\bibrangedash 93}
+      \range{pages}{9}
+    \endentry
+    \entry{Naji2020UltrasoundAGMD}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=4e3a0a03d367bb5461e421cd8580133a}{%
+           family={Naji},
+           familyi={N\bibinitperiod},
+           given={Osamah},
+           giveni={O\bibinitperiod}}}%
+        {{hash=26d26c29d9f835803b4d750808e8eb4f}{%
+           family={Al-juboori},
+           familyi={A\bibinithyphendelim j\bibinitperiod},
+           given={Raed\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=de15ce9c790f991794ddc156bda97ff9}{%
+           family={Bowtell},
+           familyi={B\bibinitperiod},
+           given={Les},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e1b60e0ef216de7ea4d3725bc6d54694}{%
+           family={Alpatova},
+           familyi={A\bibinitperiod},
+           given={Alla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d57bd413209888bd0d485065f9659901}{%
+           family={Ghaffour},
+           familyi={G\bibinitperiod},
+           given={Noreddine},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{471ac68673e3134cb413ae39fd814787}
+      \strng{fullhash}{1c97e44b950db8021e582fa67be43618}
+      \strng{fullhashraw}{1c97e44b950db8021e582fa67be43618}
+      \strng{bibnamehash}{471ac68673e3134cb413ae39fd814787}
+      \strng{authorbibnamehash}{471ac68673e3134cb413ae39fd814787}
+      \strng{authornamehash}{471ac68673e3134cb413ae39fd814787}
+      \strng{authorfullhash}{1c97e44b950db8021e582fa67be43618}
+      \strng{authorfullhashraw}{1c97e44b950db8021e582fa67be43618}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ultrasonics Sonochemistry}
+      \field{title}{Direct Contact Ultrasound for Fouling Control and Flux Enhancement in Air-Gap Membrane Distillation}
+      \field{volume}{61}
+      \field{year}{2020}
+      \field{pages}{104816}
+      \range{pages}{1}
+    \endentry
+    \entry{Aljuboori2021UltrasonicSpacers}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=26d26c29d9f835803b4d750808e8eb4f}{%
+           family={Al-juboori},
+           familyi={A\bibinithyphendelim j\bibinitperiod},
+           given={Raed\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4e3a0a03d367bb5461e421cd8580133a}{%
+           family={Naji},
+           familyi={N\bibinitperiod},
+           given={Osamah},
+           giveni={O\bibinitperiod}}}%
+        {{hash=de15ce9c790f991794ddc156bda97ff9}{%
+           family={Bowtell},
+           familyi={B\bibinitperiod},
+           given={Les},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e1b60e0ef216de7ea4d3725bc6d54694}{%
+           family={Alpatova},
+           familyi={A\bibinitperiod},
+           given={Alla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=35dee4e11c97e5d360e694bac9606fa3}{%
+           family={Soukane},
+           familyi={S\bibinitperiod},
+           given={Sofiane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d57bd413209888bd0d485065f9659901}{%
+           family={Ghaffour},
+           familyi={G\bibinitperiod},
+           given={Noreddine},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{15d9e1cb93ab11ea7dfeea39c660b882}
+      \strng{fullhash}{7c976ffe5bb276c64276443578860145}
+      \strng{fullhashraw}{7c976ffe5bb276c64276443578860145}
+      \strng{bibnamehash}{15d9e1cb93ab11ea7dfeea39c660b882}
+      \strng{authorbibnamehash}{15d9e1cb93ab11ea7dfeea39c660b882}
+      \strng{authornamehash}{15d9e1cb93ab11ea7dfeea39c660b882}
+      \strng{authorfullhash}{7c976ffe5bb276c64276443578860145}
+      \strng{authorfullhashraw}{7c976ffe5bb276c64276443578860145}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Separation and Purification Technology}
+      \field{title}{Power Effect of Ultrasonically Vibrated Spacers in Air Gap Membrane Distillation: Theoretical and Experimental Investigations}
+      \field{volume}{262}
+      \field{year}{2021}
+      \field{pages}{118319}
+      \range{pages}{1}
+    \endentry
+    \entry{Bamasag2021UltrasoundSVMD}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=dd4fd2b0c86b7cedc7dfab279912490b}{%
+           family={Bamasag},
+           familyi={B\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod}}}%
+        {{hash=073d832b224be9e0d52b320ab7ed42e5}{%
+           family={Daghooghi-Mobarakeh},
+           familyi={D\bibinithyphendelim M\bibinitperiod},
+           given={Hooman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b24050281757bb55d1c01003c76d3238}{%
+           family={Alqahtani},
+           familyi={A\bibinitperiod},
+           given={Talal},
+           giveni={T\bibinitperiod}}}%
+        {{hash=61cecc9b77644271ccb976e41c223524}{%
+           family={Phelan},
+           familyi={P\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{165268901538335197933c85a5487030}
+      \strng{fullhash}{5d5de6570d767676b000b428c632fd4c}
+      \strng{fullhashraw}{5d5de6570d767676b000b428c632fd4c}
+      \strng{bibnamehash}{165268901538335197933c85a5487030}
+      \strng{authorbibnamehash}{165268901538335197933c85a5487030}
+      \strng{authornamehash}{165268901538335197933c85a5487030}
+      \strng{authorfullhash}{5d5de6570d767676b000b428c632fd4c}
+      \strng{authorfullhashraw}{5d5de6570d767676b000b428c632fd4c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Membrane Science}
+      \field{title}{Performance Enhancement of a Submerged Vacuum Membrane Distillation ({S-VMD}) System Using Low-Power Ultrasound}
+      \field{volume}{621}
+      \field{year}{2021}
+      \field{pages}{119004}
+      \range{pages}{1}
+    \endentry
+    \entry{Cho2019UltrasonicCleaning}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=ff67a861b79a87ca86585bbc1cbe4ee2}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Hyeongrak},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bb309c6eac03ffa88e35adf4751ec628}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Jihyeok},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbb5d0a30d87e7b73e8b6718cfa67f38}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yongjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf708aff8d085372e2884ba95dbbd444}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sangho},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9799e8bedbae55230c4fab5a829b31ab}
+      \strng{fullhash}{65fd982734ead4d81811ce88cbb2018c}
+      \strng{fullhashraw}{65fd982734ead4d81811ce88cbb2018c}
+      \strng{bibnamehash}{9799e8bedbae55230c4fab5a829b31ab}
+      \strng{authorbibnamehash}{9799e8bedbae55230c4fab5a829b31ab}
+      \strng{authornamehash}{9799e8bedbae55230c4fab5a829b31ab}
+      \strng{authorfullhash}{65fd982734ead4d81811ce88cbb2018c}
+      \strng{authorfullhashraw}{65fd982734ead4d81811ce88cbb2018c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Desalination and Water Treatment}
+      \field{month}{7}
+      \field{title}{Ultrasonic-Assisted Removal of Inorganic Scales in High-Salinity Wastewater Treatment Using Membrane Distillation}
+      \field{volume}{157}
+      \field{year}{2019}
+      \field{pages}{383\bibrangedash 392}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5004/dwt.2019.24043
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5004/dwt.2019.24043
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5004/dwt.2019.24043
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
