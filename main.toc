@@ -1,5 +1,5 @@
 \babel@toc {brazil}{}\relax 
 \contentsline {section}{\numberline {1}Introdução e relevância do tema}{1}{section.1}%
 \contentsline {section}{\numberline {2}Problema de pesquisa, hipóteses e objetivos}{2}{section.2}%
-\contentsline {section}{\numberline {3}Metodologia}{2}{section.3}%
-\contentsline {section}{\numberline {4}Viabilidade}{2}{section.4}%
+\contentsline {section}{\numberline {3}Metodologia}{3}{section.3}%
+\contentsline {section}{\numberline {4}Viabilidade}{5}{section.4}%

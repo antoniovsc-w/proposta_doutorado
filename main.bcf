@@ -2404,12 +2404,20 @@
     <bcf:citekey order="15" intorder="1">Lee2025MembraneVibration</bcf:citekey>
     <bcf:citekey order="16" intorder="1">Horseman2019GasPurging</bcf:citekey>
     <bcf:citekey order="16" intorder="2">Warsinger2017ReversingWetting</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Zhu1999UltrasonicAGMD</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Naji2020UltrasoundAGMD</bcf:citekey>
-    <bcf:citekey order="18" intorder="2">Aljuboori2021UltrasonicSpacers</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Choi2019PhysicalCleaning</bcf:citekey>
-    <bcf:citekey order="19" intorder="2">Bamasag2021UltrasoundSVMD</bcf:citekey>
-    <bcf:citekey order="19" intorder="3">Cho2019UltrasonicCleaning</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Choi2019PhysicalCleaning</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Zhu1999UltrasonicAGMD</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Naji2020UltrasoundAGMD</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">Aljuboori2021UltrasonicSpacers</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Choi2019PhysicalCleaning</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">Bamasag2021UltrasoundSVMD</bcf:citekey>
+    <bcf:citekey order="20" intorder="3">Cho2019UltrasonicCleaning</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Huang2019MechanicalVibration</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Lee2025MembraneVibration</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">ParkVibrationModes</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Warsinger2017ReversingWetting</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Julian2018AirBackwash</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Harimawan2022Biofouling</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Horseman2019GasPurging</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

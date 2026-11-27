@@ -1332,8 +1332,8 @@
       \strng{authornamehash}{165268901538335197933c85a5487030}
       \strng{authorfullhash}{5d5de6570d767676b000b428c632fd4c}
       \strng{authorfullhashraw}{5d5de6570d767676b000b428c632fd4c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Membrane Science}
@@ -1374,8 +1374,8 @@
       \strng{authornamehash}{9799e8bedbae55230c4fab5a829b31ab}
       \strng{authorfullhash}{65fd982734ead4d81811ce88cbb2018c}
       \strng{authorfullhashraw}{65fd982734ead4d81811ce88cbb2018c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Desalination and Water Treatment}
@@ -1393,6 +1393,182 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.5004/dwt.2019.24043
+      \endverb
+    \endentry
+    \entry{Huang2019MechanicalVibration}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=098f84956607d99d90ae378e74f0a7c1}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Frank\bibnamedelimb Y.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=39151d72dc7d7f4f4cabded65ee41c6e}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Carolyn},
+           giveni={C\bibinitperiod}}}%
+        {{hash=047e6204adee6441eb1efdce9f181ea2}{%
+           family={Arning},
+           familyi={A\bibinitperiod},
+           given={Allie},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{fullhash}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{fullhashraw}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{bibnamehash}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{authorbibnamehash}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{authornamehash}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{authorfullhash}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \strng{authorfullhashraw}{afc2aeb96e7cdffa5e2fd64162323ac8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Symmetry}
+      \field{month}{1}
+      \field{title}{Mechanical Vibration for the Control of Membrane Fouling in Direct Contact Membrane Distillation}
+      \field{year}{2019}
+    \endentry
+    \entry{ParkVibrationModes}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=752c8ae0a1903680342d45acaa1677ba}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Youngkyu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5034e44dedd9135a58174b798daf12ff}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Juyoung\bibnamedelima Andrea},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=11069a850610ac6570dea23c5b7c9b74}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bbb5d0a30d87e7b73e8b6718cfa67f38}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yongjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf708aff8d085372e2884ba95dbbd444}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sangho},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7205f85042d0a7d43fb28bcdad553ec6}
+      \strng{fullhash}{eaa498dbb5c47442228e682f6d846171}
+      \strng{fullhashraw}{eaa498dbb5c47442228e682f6d846171}
+      \strng{bibnamehash}{7205f85042d0a7d43fb28bcdad553ec6}
+      \strng{authorbibnamehash}{7205f85042d0a7d43fb28bcdad553ec6}
+      \strng{authornamehash}{7205f85042d0a7d43fb28bcdad553ec6}
+      \strng{authorfullhash}{eaa498dbb5c47442228e682f6d846171}
+      \strng{authorfullhashraw}{eaa498dbb5c47442228e682f6d846171}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Membranes}
+      \field{title}{Influence of Vibration Modes on {CaSO$_4$} Scaling in Hollow-Fiber Membrane Distillation}
+    \endentry
+    \entry{Julian2018AirBackwash}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=b8767f0688bfe9e002d48a105b5fc518}{%
+           family={Julian},
+           familyi={J\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2943a941d72c04ff226c7b02b416c55a}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cea99e3ed74f7ce08426da7357f37db1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hongyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f5d0fbe0a8b61dfcbd893f12e9f67d98}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Vicki},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f79d62d0f22cf491eefb95b182392bbe}
+      \strng{fullhash}{7280abed05366cc412ac099233fb6aa3}
+      \strng{fullhashraw}{7280abed05366cc412ac099233fb6aa3}
+      \strng{bibnamehash}{f79d62d0f22cf491eefb95b182392bbe}
+      \strng{authorbibnamehash}{f79d62d0f22cf491eefb95b182392bbe}
+      \strng{authornamehash}{f79d62d0f22cf491eefb95b182392bbe}
+      \strng{authorfullhash}{7280abed05366cc412ac099233fb6aa3}
+      \strng{authorfullhashraw}{7280abed05366cc412ac099233fb6aa3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Membrane Science}
+      \field{title}{Scaling Mitigation in Submerged Vacuum Membrane Distillation and Crystallization ({VMDC}) with Periodic Air-Backwash}
+      \field{volume}{547}
+      \field{year}{2018}
+      \field{pages}{19\bibrangedash 33}
+      \range{pages}{15}
+    \endentry
+    \entry{Harimawan2022Biofouling}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8920a7a2157547b3402263424575799a}{%
+           family={Harimawan},
+           familyi={H\bibinitperiod},
+           given={Ardiyan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=59e3bf8da398ec87273c01a4068e1d1c}{%
+           family={Wonoputri},
+           familyi={W\bibinitperiod},
+           given={Vita},
+           giveni={V\bibinitperiod}}}%
+        {{hash=492f7513a7e01cbfce6e69e881a1be91}{%
+           family={Ariel},
+           familyi={A\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7106867555ccfe142e2e6c5b35847b53}{%
+           family={Michell},
+           familyi={M\bibinitperiod}}}%
+        {{hash=b8767f0688bfe9e002d48a105b5fc518}{%
+           family={Julian},
+           familyi={J\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{19e7cd1941459c38bff2a9d509ab4d50}
+      \strng{fullhash}{546cdda47025faf16edf458fc12d4a72}
+      \strng{fullhashraw}{546cdda47025faf16edf458fc12d4a72}
+      \strng{bibnamehash}{19e7cd1941459c38bff2a9d509ab4d50}
+      \strng{authorbibnamehash}{19e7cd1941459c38bff2a9d509ab4d50}
+      \strng{authornamehash}{19e7cd1941459c38bff2a9d509ab4d50}
+      \strng{authorfullhash}{546cdda47025faf16edf458fc12d4a72}
+      \strng{authorfullhashraw}{546cdda47025faf16edf458fc12d4a72}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biofouling}
+      \field{month}{11}
+      \field{number}{9}
+      \field{title}{Biofouling Control of Membrane Distillation for Seawater Desalination: Effect of Air-Backwash and Chemical Cleaning on Biofouling Formation}
+      \field{volume}{38}
+      \field{year}{2022}
+      \field{pages}{889\bibrangedash 902}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/08927014.2022.2146496
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/08927014.2022.2146496
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/08927014.2022.2146496
       \endverb
     \endentry
   \enddatalist

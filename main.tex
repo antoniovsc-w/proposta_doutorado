@@ -12,6 +12,9 @@
 \usepackage{setspace}
 \onehalfspacing
 \usepackage{indentfirst}
+\usepackage[table]{xcolor}
+\usepackage{booktabs}
+\usepackage{array}
 
 % Títulos de seções e subseções em 12 pt e negrito
 \usepackage{sectsty}
@@ -200,17 +203,125 @@ O processo de destilação por membrana varia em função do modo como o permead
 
 Observa-se na literatura o uso de diversas técnicas para a restauração do fluxo, como pré tratamentos~\cite{Zhang2019ProducedWater,Alkhatib2021FoulingMitigation}, aplicação de produtos químicos~\cite{Duong2016MembraneScaling,Amin2023BiofilmCleaning} e limpeza da superfície com água~\cite{Lee2025MembraneVibration,Tomczak2022OperationalParameters}, de modo a restaurar parcial ou completamente o fluxo de permeado~\cite{Duong2016MembraneScaling,Zhang2019ProducedWater,Lee2025MembraneVibration,Amin2023BiofilmCleaning}. Entretanto, tais procedimentos consomem água, interrompem a operação ou precisam da compra, transporte e armazenamento de produtos químicos.
 
-A aplicação de MD para o tratamento de água de produção é estudada na literatura sobretudo em experimentos de curto prazo ou com água de produção mimetizada~\cite{Pawar2022LaboratoryPilotScale,Nawaz2021FluxStability}. O tratamento de água de produção real por MD expõe a necessidade de pré tratamentos capazes de lidar com a capacidade do efluente, como pré filtração, amolecimento por precipitação, filtração por casca de noz, eletrocoagulação, adsorção por carvão ativado e tratamento biológico~\cite{Regmi2023ProducedWater,Pawar2022AGMD,Pawar2022,Zhang2019ProducedWater,Fernandez2025ZeroLiquidDischarge,Wang2023ShaleGasWastewater}.
+A aplicação de MD para o tratamento de água de produção é estudada na literatura sobretudo em experimentos de curto prazo ou com água de produção mimetizada~\cite{Pawar2022LaboratoryPilotScale,Nawaz2021FluxStability}. O tratamento de água de produção real por MD expõe a necessidade de pré tratamentos capazes de lidar com a capacidade do efluente, como pré filtração, amolecimento por precipitação, filtração por casca de noz, eletrocoagulação, adsorção por carvão ativado e tratamento biológico~\cite{Regmi2023ProducedWater,Pawar2022AGMD,Pawar2022,Zhang2019ProducedWater,Fernandez2025ZeroLiquidDischarge,Wang2023ShaleGasWastewater}. Dentre as estratégia que não utilizam água para o processo de limpeza e recuberação, é possível citar ultrassom~\cite{Choi2019PhysicalCleaning}, vibração mecânica~\cite{Lee2025MembraneVibration} e purga com ar~\cite{Horseman2019GasPurging,Warsinger2017ReversingWetting}. 
 
-Dentre as estratégia que não utilizam água para o processo de limpeza e recuberação, é possível citar ultrassom~\cite{Choi2019PhysicalCleaning}, vibração mecânica~\cite{Lee2025MembraneVibration} e purga com ar~\cite{Horseman2019GasPurging,Warsinger2017ReversingWetting}. O uso de ultrassom resulta em aumento do fluxo de permeado, seja através de uma corneta piezoelétrica~\cite{Zhu1999UltrasonicAGMD} ou através de transdutores no interior do espaçamento de ar~\cite{Naji2020UltrasoundAGMD,Aljuboori2021UltrasonicSpacers}. Entretanto, em experimentos onde utilizou-se banho ultrassônico para a limpeza da membrana, observou-se redução da pressão de entrada de líquido (LEP), reduzindo a hidrofobicidade da membrana~\cite{Choi2019PhysicalCleaning,Bamasag2021UltrasoundSVMD,Cho2019UltrasonicCleaning}.
+O uso de ultrassom resulta em aumento do fluxo de permeado através da perturbação da camada limite na superfície da membrana, intensificando a transferência de calor e massa~\cite{Choi2019PhysicalCleaning}. A técnica pode ser aplicada através de uma corneta piezoelétrica~\cite{Zhu1999UltrasonicAGMD} ou através de transdutores no interior do espaçamento de ar~\cite{Naji2020UltrasoundAGMD,Aljuboori2021UltrasonicSpacers}. Entretanto, em experimentos onde utilizou-se banho ultrassônico para a limpeza da membrana, observou-se redução da pressão de entrada de líquido (LEP), reduzindo a hidrofobicidade da membrana~\cite{Choi2019PhysicalCleaning,Bamasag2021UltrasoundSVMD,Cho2019UltrasonicCleaning}.
 
-Estre projeto propõe avaliar o impacto do uso de ultrasom, vibração mecânica e purga com ar comprimido na performance de um módulo AGMD durante o tratamento de água de produção real. Selecionou-se as técnicas com enfoque em prevenção, no caso de ultrassom e vibração mecânica, e recuperação, no caso da purga com gás, de modo a aumentar a durabilidade da membrana minimizando paradas na operação do processo de tratamento da água e sem a necessidade do consumo de água limpa ou produtos químicos.  
+A aplicação de vibração mecânica em MD por contato direto (DCMD), seja com fibras ocas ou membranas planas. Durante o tratamento do efluente do processo de dessulfurização de gás de combustão, rico em íons $\text{Ca}^{2+}$, a aplicação de vibração mecânica reduziu em 50~\% a taxa de declínio do fluxo de permeado durante 200 horas~\cite{Huang2019MechanicalVibration}. 
+
+Para o tratamento de uma solução saturada de sulfato de cálcio com uma membrana plana de fluoreto de polivinilideno (PVDF), observou-se um retardo de 100 minutos a ocorrência de molhamento quando comparado ao experimento sem vibração~\cite{Lee2025MembraneVibration}, enquanto para o uso de uma membrana de fibra oca de polietileno (PE) observou-se um aumento na capacidade de concentração, quantificado pelo fator crítico de concentração volumérica ($VCF_{cr}$), de 25,56~\% para fluxo externo as fibras e 48,15~\% para fluxo interno as fibras~\cite{ParkVibrationModes}.
+
+Quanto ao uso de gás de purga, pode-se apontar a capacidade de recuperação de membranas planas de PVDF, onde foi possível uma recuperação de 55 a 79~\% do LEP original quando molhadas com soluções salinas de $NaCl$ com concentrações de 0,5 a 20~wt\%~\cite{Warsinger2017ReversingWetting}.
+
+Durante o tratamento de salmoura através de MD a vácuo submersa e cristalização (S-VMDC), a atuação da purga com ar comprimido de maneira periódica promoveu um aumento de 5 para 15 horas de operação com fluxo estável, além das bolhas intensificarem a cristalização no escoamento e não na superfície da membrana~\cite{Julian2018AirBackwash}.
+
+Entretanto o uso da purga com ar comprimido de maneira recorrente em sistemas expostos a \textit{biofouling}, como água do mar, pode resultar no favorecimento de adesão bacteriana em função da interface ar-líquido, favorecendo a ocorrência de \textit{wetting}~\cite{Harimawan2022Biofouling}.
+
+Outro ponto de atenção é a influencia das propriedades superfíciais da membrana na eficácia da técnica de recuperação. Por exemplo, o uso de purga com nitrogênio em membranas hidrofóbicas de PVDF não apresentou resultado, enquanto para membranas superhidrofóbicas permitiu a eliminação de depósitos minerais (\textit{scaling}), resultando em 80~\% de recuperação de água sem que seja observado declínio no fluxo de permeado~\cite{Horseman2019GasPurging}.
+
+Estre projeto propõe avaliar o impacto do uso de ultrasom, vibração mecânica e purga com ar comprimido na performance de um módulo AGMD durante o tratamento de água de produção real. Selecionou-se as técnicas com enfoque em prevenção, no caso de ultrassom e vibração mecânica, e recuperação, no caso da purga com gás, de modo a aumentar a durabilidade da membrana, minimizando paradas na operação do processo de tratamento da água e sem a necessidade do consumo de água limpa ou produtos químicos.  
 
 \section{Problema de pesquisa, hipóteses e objetivos}
 
+O problema de pesquisa do projeto consiste em avaliar como preservar a performance do processo de tratamento de água de produção real através de um módulo AGMD sem a adição de produtos químicos e consumo de água limpa, e qual combinação de ultrassom, vibração mecânica e purga de ar comprimido pode auxiliar o processo.  
+
+As hipóteses do projeto de pesquisa são: 
+
+\begin{itemize}
+\item A que do fluxo de permeado observada no início do processo de tratamento pode ser atrasada mediante a aplicação de ultrassom e vibração mecânica, inibindo a formação de depósitos sobre a superfície da membrana. 
+
+\item A purga com ar comprimido é capaz de remover o fouling que venha a surgir durante a operação e reverter pontos com molhamento, sem prejudicar significativamente as características superficiais e morfológicas da membrana. 
+
+\item A combinação entre a vibração mecânica, ultrassom e purga com ar comprimido preserva a performance do módulo por um maior tempo de operação. 
+\end{itemize}
+
+O objetivo geral do processo é avaliar a performance e os parâmetros de operação de um módulo AGMD durante o tratamento de água de produção com aplicação de ultrassom, vibração mecânica e purga com ar comprimido, identificando através de balanços de massa e energia como cada ação contribuiu para a estabilidade do processo. 
+
+Os objetivos específicos são: 
+
+\begin{itemize}
+
+\item Integração do módulo AGMD com sistemas de prevenção e recuperação através de ultrassom, vibração e purga com ar comprimido. 
+
+\item Determinar quais parâmetros dos sistemas de prevenção e recuperação contribuem para a performance do processo através da mitigação dos fenômenos de polarização de temperatura e concentração. 
+
+\item Avaliar os impactos na superfície e nas propriedades morfológicas da membrana decorrentes dos sistemas de prevenção e recuperação. 
+
+\item Avaliar o impacto dos sistemas de prevenção e recuperação, solo e combinados, na performance do módulo durante o tratamento de água de produção real. 
+\end{itemize}
+
 \section{Metodologia}
 
+Os experimentos serão realizados em uma bancada do Laboratório de nano e microfluidica e microssistemas (LabMEMS), a qual possui um módulo AGMD, três reservatórios (água quente, água fria e permeado), bombas, sistema de aquisição de dados com sensores de temperatura, pressão e condutividade, sistema de aquecimento e refrigeração, apresentado na figura\ref{fig:bancada}.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth, height=10cm, keepaspectratio]{bancada.jpeg}
+    \caption{Bancada do LabMEMS onde serão realizados os experimentos.}
+    \label{fig:bancada}
+\end{figure}
+
+Serão utilizadas membranas com diferentes propriedades superficiais e morfológicas, partindo das avaliadas durante o mestrado do candidato, de modo a observar a influencia de tais propriedades quanto à eficácia das técnicas de prevenção e recuperação abordadas. Será desenvolvida uma nova versão do módulo AGMD que comporte a aplicação das técnicas de prevenção e recuperação, através de um transdutor ultrassônico, de um suporte móvel com atuador de baixa frequência no canal de alimentação e com o sistema de ar comprimido acoplado ao espaçamento de ar. Além das modificações no módulo, a bancada será expandida de modo a permitir a realização de experimentos com mais de um módulo ao memso tempo.
+
+A água de produção real será fornecida pelas empresas Qatar energy, Total energies e Prio, em acordo que as empresas possuem com o LabMEMS. A água a ser utilizada nos experimentos será coletada após o trem de filtração empregado na plataforma. Cada lote de água de produção será caracterizado através de medições de pH, condutividade, cromatografia gasosa, espectrometria de massa e TOG. Os indicadores utilizados para acompanhamento dos experimentos serão os valores e taxas de variação do fluxo de permeado, da condutividade, do LEP, do ângulo de contato e da distribuição de poros. 
+
+Os experimentos serão realizados de acordo com as seguintes etapas:
+
+1\textsuperscript{o} Etapa: Serão realizados experimentos com água proveniente da rede de abastecimento da universidade, com e sem as técnicas de prevenção e recuperação, de modo a observar o impacto das modificações no fluxo de permeado e no efeito de polarização de temperatura. Nesta etapa, será realizada uma análise de sensibilidade dos parâmetros empregados no processo, de modo a selecionar o conjunto de parâmetros que maximize o fluxo de permeado sem promover a degradação da membrana. 
+
+Durante a definição dos parâmetros, os experimentos terão duração de 24 horas e após a definição serão realizados dois experimentos com duração de trinta dias, de modo a verificar possíveis consequências de exposição prolongada as técnicas empregadas. A degradação da membrana será medida através da medição do LEP, ângulo de contato e microscopia eletrônica.
+
+2\textsuperscript{o} Etapa: Com base nos parâmetros selecionados, serão realizados experimentos com duração de 15 dias com água de produção real, de modo a verificar a capacidade individual de cada tecnologia em inibir o fouling e wetting.
+
+3\textsuperscript{o} Etapa: A partir das observações realizadas durante a etapa 2, serão realizados experimentos de 15 dias com água de produção real que acoplem as tecnologias de prevenção e recuperação, avaliando o impacto da aplicação em conjunto.
+
+4\textsuperscript{o} Etapa: Serão realizados experimentos de longo prazo, de modo a observar se o emprego das técnicas de prevenção e recuperação é capaz de sustentar o tratamento de água de produção durante 60 dias. 
+
+
 \section{Viabilidade}
+
+O projeto tem como princípio a bancada utilizada pelo candidato durante o mestrado e o LabMEMS conta com ferramental e equipamentos necessários para a realização das modificações necessárias na bancada e no módulo AGMD e avaliação de indicadores como LEP, distribuição de poros, visualização da superfície por microscopia eletrônica, medição de pH e condutividade. O acesso à água de produção e as membranas a serem utilizadas nos experimentos são proporcionadas pelo projeto entre o LabMEMS e as empresas Qatar energy, Total energies e Prio. 
+
+Planejou-se o projeto de pesquisa com duração de 48 meses, divididos em trimestres. O primeiro ano concentra o cumprimento dos créditos em disciplinas e o desenvolvimento da nova versão do módulo AGMD e da expansão da bancada, de modo que os experimentos com água de rede (Etapa1) iniciem no segundo ano. 
+
+As Etapas 2 e 3 preveem, para cada configuração, ensaios de 15 dias acrescidos do tempo de caracterização, limpeza e manutenção da bancada, e incluem um ensaio de referência sem técnicas de prevenção e recuperação. A Etapa 4, com ensaios de 60 dias, ocupa o início do quarto ano, deixando os dois últimos trimestres para consolidação dos resultados, redação de artigos, conclusão da tese e defesa. A Tabela \ref{tab:cronograma} apresenta a distribuição das atividades.
+
+\definecolor{crono}{RGB}{31,78,121}
+\newcommand{\X}{\textcolor{crono}{\rule[-0.35ex]{0.38cm}{1.5ex}}}
+
+\begin{table}[htbp]
+\centering
+\caption{Cronograma de atividades por trimestre (T).}
+\label{tab:cronograma}
+\footnotesize
+\setlength{\tabcolsep}{2.2pt}
+\renewcommand{\arraystretch}{1.05}
+\rowcolors{4}{gray!10}{white}
+\begin{tabular}{@{}rl*{16}{>{\centering\arraybackslash}p{0.38cm}}@{}}
+\toprule
+ & & \multicolumn{4}{c}{Ano 1} & \multicolumn{4}{c}{Ano 2} & \multicolumn{4}{c}{Ano 3} & \multicolumn{4}{c}{Ano 4} \\
+\cmidrule(lr){3-6}\cmidrule(lr){7-10}\cmidrule(lr){11-14}\cmidrule(l){15-18}
+ & Atividade & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 \\
+\midrule
+1  & Disciplinas                             & \X & \X & \X & \X & \X & \X &    &    &    &    &    &    &    &    &    &    \\
+2  & Revisão bibliográfica                   & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X &    \\
+3  & Projeto e fabricação do módulo AGMD     &    & \X & \X & \X & \X &    &    &    &    &    &    &    &    &    &    &    \\
+4  & Expansão da bancada (múltiplos módulos) &    &    & \X & \X & \X &    &    &    &    &    &    &    &    &    &    &    \\
+5  & Etapa 1: ajuste de parâmetros (24 h)    &    &    &    &    & \X & \X &    &    &    &    &    &    &    &    &    &    \\
+6  & Etapa 1: ensaios de 30 dias             &    &    &    &    &    &    & \X & \X &    &    &    &    &    &    &    &    \\
+7  & Exame de qualificação                   &    &    &    &    &    &    &    & \X &    &    &    &    &    &    &    &    \\
+8  & Caracterização da água de produção      &    &    &    &    &    &    &    & \X & \X & \X & \X & \X & \X & \X &    &    \\
+9  & Etapa 2: técnicas isoladas (15 dias)    &    &    &    &    &    &    &    &    & \X & \X &    &    &    &    &    &    \\
+10 & Etapa 3: técnicas combinadas (15 dias)  &    &    &    &    &    &    &    &    &    &    & \X & \X &    &    &    &    \\
+11 & Etapa 4: longo prazo (60 dias)          &    &    &    &    &    &    &    &    &    &    &    &    & \X & \X &    &    \\
+12 & Caracterização pós-ensaio das membranas &    &    &    &    &    & \X & \X & \X & \X & \X & \X & \X & \X & \X &    &    \\
+13 & Balanços de massa e energia             &    &    &    &    &    & \X & \X & \X & \X & \X & \X & \X & \X & \X & \X &    \\
+14 & Redação e submissão de artigos          &    &    &    &    &    &    &    & \X &    &    & \X &    &    & \X & \X &    \\
+15 & Redação da tese                         &    &    &    &    &    &    &    &    &    &    &    &    &    & \X & \X & \X \\
+16 & Defesa da tese                          &    &    &    &    &    &    &    &    &    &    &    &    &    &    &    & \X \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 % Para exibir as referências citadas no projeto, descomente:
 \printbibliography[title={Referências bibliográficas}]

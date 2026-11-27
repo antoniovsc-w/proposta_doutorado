@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.11.24)  25 NOV 2026 22:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.11.24)  26 NOV 2026 22:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -180,6 +180,63 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
+(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
+
+(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box53
+\extrarowheight=\dimen162
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+\everycr=\toks20
+\minrowclearance=\skip53
+\rownum=\count298
+)
+(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen163
+\lightrulewidth=\dimen164
+\cmidrulewidth=\dimen165
+\belowrulesep=\dimen166
+\belowbottomsep=\dimen167
+\aboverulesep=\dimen168
+\abovetopsep=\dimen169
+\cmidrulesep=\dimen170
+\cmidrulekern=\dimen171
+\defaultaddspace=\dimen172
+\@cmidla=\count299
+\@cmidlb=\count300
+\@aboverulesep=\dimen173
+\@belowrulesep=\dimen174
+\@thisruleclass=\count301
+\@lastruleclass=\count302
+\@thisrulewidth=\dimen175
+)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
@@ -197,23 +254,23 @@ LaTeX Warning: Command \underline  has changed.
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
-\calc@Acount=\count298
-\calc@Bcount=\count299
-\calc@Adimen=\dimen161
-\calc@Bdimen=\dimen162
-\calc@Askip=\skip51
-\calc@Bskip=\skip52
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen176
+\calc@Bdimen=\dimen177
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
-\calc@Ccount=\count300
-\calc@Cskip=\skip53
+\calc@Ccount=\count305
+\calc@Cskip=\skip56
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
-\@mathmargin=\skip54
+\@mathmargin=\skip57
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -221,100 +278,100 @@ Package: amstext 2024/11/17 v2.01 AMS text
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen163
+\@emptytoks=\toks21
+\ex@=\dimen178
 ))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen164
+\pmbraise@=\dimen179
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count301
+\inf@bad=\count306
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count302
-\leftroot@=\count303
+\uproot@=\count307
+\leftroot@=\count308
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count304
-\DOTSCASE@=\count305
+\classnum@=\count309
+\DOTSCASE@=\count310
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
+\Mathstrutbox@=\box55
+\strutbox@=\box56
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen165
+\big@size=\dimen180
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count306
+\macc@depth=\count311
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count307
+\c@MaxMatrixCols=\count312
 \dotsspace@=\muskip17
-\c@parentequation=\count308
-\dspbrk@lvl=\count309
-\tag@help=\toks20
-\row@=\count310
-\column@=\count311
-\maxfields@=\count312
-\andhelp@=\toks21
-\eqnshift@=\dimen166
-\alignsep@=\dimen167
-\tagshift@=\dimen168
-\tagwidth@=\dimen169
-\totwidth@=\dimen170
-\lineht@=\dimen171
-\@envbody=\toks22
-\multlinegap=\skip55
-\multlinetaggap=\skip56
-\mathdisplay@stack=\toks23
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
+\tag@help=\toks22
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
+\andhelp@=\toks23
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks24
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
 )
-\g_MT_multlinerow_int=\count313
-\l_MT_multwidth_dim=\dimen172
-\origjot=\skip57
-\l_MT_shortvdotswithinadjustabove_dim=\dimen173
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen174
-\l_MT_above_intertext_sep=\dimen175
-\l_MT_below_intertext_sep=\dimen176
-\l_MT_above_shortintertext_sep=\dimen177
-\l_MT_below_shortintertext_sep=\dimen178
-\xmathstrut@box=\box55
-\xmathstrut@dim=\dimen179
+\g_MT_multlinerow_int=\count318
+\l_MT_multwidth_dim=\dimen187
+\origjot=\skip60
+\l_MT_shortvdotswithinadjustabove_dim=\dimen188
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen189
+\l_MT_above_intertext_sep=\dimen190
+\l_MT_below_intertext_sep=\dimen191
+\l_MT_above_shortintertext_sep=\dimen192
+\l_MT_below_shortintertext_sep=\dimen193
+\xmathstrut@box=\box57
+\xmathstrut@dim=\dimen194
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\empheq.sty
 Package: empheq 2024/08/09 v2.17 Emphasizing equations
-\l_EQ_equationtype_int=\count314
-\l_EQ_alignmentmode_int=\count315
-\l_EQ_totalwidth_dim=\dimen180
-\l_EQ_displaywidth_dim=\dimen181
-\l_EQ_temp_linewidth_dim=\dimen182
-\l_EQ_linewidth_dim=\dimen183
-\EmphEqdelimitershortfall=\dimen184
-\EmphEqdelimiterfactor=\count316
-\g_EQ_toptag_height_dim=\dimen185
-\g_EQ_bottomtag_depth_dim=\dimen186
-\g_EQ_toprow_height_dim=\dimen187
-\g_EQ_bottomrow_depth_dim=\dimen188
-\g_EQ_widesttag_dim=\dimen189
-\EQ_mathdisplay_box=\box56
-\EQ_tag_box=\box57
-\g_EQ_temprow_int=\count317
+\l_EQ_equationtype_int=\count319
+\l_EQ_alignmentmode_int=\count320
+\l_EQ_totalwidth_dim=\dimen195
+\l_EQ_displaywidth_dim=\dimen196
+\l_EQ_temp_linewidth_dim=\dimen197
+\l_EQ_linewidth_dim=\dimen198
+\EmphEqdelimitershortfall=\dimen199
+\EmphEqdelimiterfactor=\count321
+\g_EQ_toptag_height_dim=\dimen256
+\g_EQ_bottomtag_depth_dim=\dimen257
+\g_EQ_toprow_height_dim=\dimen258
+\g_EQ_bottomrow_depth_dim=\dimen259
+\g_EQ_widesttag_dim=\dimen260
+\EQ_mathdisplay_box=\box58
+\EQ_tag_box=\box59
+\g_EQ_temprow_int=\count322
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/systeme\systeme.sty
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count318
-\xs_countb=\count319
+\xs_counta=\count323
+\xs_countb=\count324
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 ) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/simplekv\simplekv.sty
@@ -326,26 +383,26 @@ Package: simplekv 2025/06/15 v0.32 Simple keyval package (CT)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/systeme\systeme.tex
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/simplekv\simplekv.tex
 )
-\SYS_tab_toks=\toks24
-\SYS_preamble_toks=\toks25
-\SYSeqnum=\count320
+\SYS_tab_toks=\toks26
+\SYS_preamble_toks=\toks27
+\SYSeqnum=\count325
 )
 Package: systeme 2025/12/19 v0.51 Saisie naturelle de systèmes d'équations (CT)
 
 ) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
 Package: siunitx 2026-04-15 v3.5.4 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count321
-\l__siunitx_number_exponent_fixed_int=\count322
-\l__siunitx_number_min_decimal_int=\count323
-\l__siunitx_number_min_integer_int=\count324
-\l__siunitx_number_round_precision_int=\count325
-\l__siunitx_number_lower_threshold_int=\count326
-\l__siunitx_number_upper_threshold_int=\count327
-\l__siunitx_number_group_first_int=\count328
-\l__siunitx_number_group_size_int=\count329
-\l__siunitx_number_group_min_int=\count330
-\l__siunitx_number_group_minimum_int=\count331
-\l__siunitx_compound_count_int=\count332
+\l__siunitx_number_uncert_offset_int=\count326
+\l__siunitx_number_exponent_fixed_int=\count327
+\l__siunitx_number_min_decimal_int=\count328
+\l__siunitx_number_min_integer_int=\count329
+\l__siunitx_number_round_precision_int=\count330
+\l__siunitx_number_lower_threshold_int=\count331
+\l__siunitx_number_upper_threshold_int=\count332
+\l__siunitx_number_group_first_int=\count333
+\l__siunitx_number_group_size_int=\count334
+\l__siunitx_number_group_min_int=\count335
+\l__siunitx_number_group_minimum_int=\count336
+\l__siunitx_compound_count_int=\count337
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
 ns.sty
@@ -354,7 +411,7 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count333
+\etb@tempcnta=\count338
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
@@ -372,33 +429,23 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 ))
-\l__siunitx_table_tmp_box=\box58
-\l__siunitx_table_tmp_dim=\dimen190
-\l__siunitx_table_column_width_dim=\dimen191
-\l__siunitx_table_integer_box=\box59
-\l__siunitx_table_decimal_box=\box60
-\l__siunitx_table_uncert_box=\box61
-\l__siunitx_table_before_box=\box62
-\l__siunitx_table_after_box=\box63
-\l__siunitx_table_before_dim=\dimen192
-\l__siunitx_table_carry_dim=\dimen193
-\l__siunitx_unit_tmp_int=\count334
-\l__siunitx_unit_position_int=\count335
-\l__siunitx_unit_total_int=\count336
-\l__siunitx_sexagesimal_tmp_dim=\dimen194
-\l__siunitx_sexagesimal_marker_box=\box64
-\l__siunitx_sexagesimal_unit_box=\box65
- (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen195
-\ar@mcellbox=\box66
-\extrarowheight=\dimen196
-\NC@list=\toks26
-\extratabsurround=\skip58
-\backup@length=\skip59
-\ar@cellbox=\box67
-))
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+\l__siunitx_table_tmp_box=\box60
+\l__siunitx_table_tmp_dim=\dimen261
+\l__siunitx_table_column_width_dim=\dimen262
+\l__siunitx_table_integer_box=\box61
+\l__siunitx_table_decimal_box=\box62
+\l__siunitx_table_uncert_box=\box63
+\l__siunitx_table_before_box=\box64
+\l__siunitx_table_after_box=\box65
+\l__siunitx_table_before_dim=\dimen263
+\l__siunitx_table_carry_dim=\dimen264
+\l__siunitx_unit_tmp_int=\count339
+\l__siunitx_unit_position_int=\count340
+\l__siunitx_unit_total_int=\count341
+\l__siunitx_sexagesimal_tmp_dim=\dimen265
+\l__siunitx_sexagesimal_marker_box=\box66
+\l__siunitx_sexagesimal_unit_box=\box67
+) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
 Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
@@ -408,8 +455,8 @@ Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count337
-\g__chemgreek_tmpa_int=\count338
+\l__chemgreek_tmpa_int=\count342
+\g__chemgreek_tmpa_int=\count343
 ) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
@@ -420,48 +467,28 @@ fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 106.
-
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
-File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
-))
-\l__mhchem_ce_distanceFromLastComma_int=\count339
-\__mhchem_arrow_extPgfLength_skip=\skip60
-\mhchem@minispace@tmp=\skip61
-\mhchem@minibackspace@tmp=\skip62
-\mhchem@bondwidth=\skip63
-\mhchem@bondheight=\skip64
-\mhchem@smallbondwidth@tmpA=\skip65
-\mhchem@smallbondwidth@tmpB=\skip66
-\mhchem@smallbondwidth=\skip67
-\mhchem@bondtmp@minussidebearingleft=\skip68
-\mhchem@bondtmp@minussidebearingright=\skip69
-\l__mhchem_option_version_int=\count340
-\mhchem@option@minusmathsidebearingleft=\dimen197
-\mhchem@option@minusmathsidebearingright=\dimen198
-\mhchem@option@minustextsidebearingleft=\dimen199
-\mhchem@option@minustextsidebearingright=\dimen256
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count344
+\__mhchem_arrow_extPgfLength_skip=\skip61
+\mhchem@minispace@tmp=\skip62
+\mhchem@minibackspace@tmp=\skip63
+\mhchem@bondwidth=\skip64
+\mhchem@bondheight=\skip65
+\mhchem@smallbondwidth@tmpA=\skip66
+\mhchem@smallbondwidth@tmpB=\skip67
+\mhchem@smallbondwidth=\skip68
+\mhchem@bondtmp@minussidebearingleft=\skip69
+\mhchem@bondtmp@minussidebearingright=\skip70
+\l__mhchem_option_version_int=\count345
+\mhchem@option@minusmathsidebearingleft=\dimen266
+\mhchem@option@minusmathsidebearingright=\dimen267
+\mhchem@option@minustextsidebearingleft=\dimen268
+\mhchem@option@minustextsidebearingright=\dimen269
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen257
-\Gin@req@width=\dimen258
-)
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: xetex.def on input line 274.
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+\Gin@req@height=\dimen270
+\Gin@req@width=\dimen271
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
 sty
@@ -470,9 +497,9 @@ sty
 y
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen259
-\pgfutil@tempdimb=\dimen260
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen272
+\pgfutil@tempdimb=\dimen273
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
@@ -495,33 +522,33 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 libraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks31
 ))
-\pgf@x=\dimen261
-\pgf@y=\dimen262
-\pgf@xa=\dimen263
-\pgf@ya=\dimen264
-\pgf@xb=\dimen265
-\pgf@yb=\dimen266
-\pgf@xc=\dimen267
-\pgf@yc=\dimen268
-\pgf@xd=\dimen269
-\pgf@yd=\dimen270
+\pgf@x=\dimen274
+\pgf@y=\dimen275
+\pgf@xa=\dimen276
+\pgf@ya=\dimen277
+\pgf@xb=\dimen278
+\pgf@yb=\dimen279
+\pgf@xc=\dimen280
+\pgf@yc=\dimen281
+\pgf@xd=\dimen282
+\pgf@yd=\dimen283
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count341
-\c@pgf@countb=\count342
-\c@pgf@countc=\count343
-\c@pgf@countd=\count344
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
-\pgf@sys@id@count=\count345
+\c@pgf@counta=\count346
+\c@pgf@countb=\count347
+\c@pgf@countc=\count348
+\c@pgf@countd=\count349
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count350
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -541,13 +568,13 @@ File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
 s-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )
-\pgfsys@objnum=\count346
+\pgfsys@objnum=\count351
 )))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count347
-\pgfsyssoftpath@bigbuffer@items=\count348
+\pgfsyssoftpath@smallbuffer@items=\count352
+\pgfsyssoftpath@bigbuffer@items=\count353
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
@@ -563,12 +590,12 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 code.tex)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen271
-\pgfmath@count=\count349
+\pgfmath@dimen=\dimen284
+\pgfmath@count=\count354
 \pgfmath@box=\box69
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex)
@@ -592,39 +619,39 @@ ions.integerarithmetics.code.tex)
 code.tex)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count350
+\c@pgfmathroundto@lastzeros=\count355
 ))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen272
-\pgf@picmaxx=\dimen273
-\pgf@picminy=\dimen274
-\pgf@picmaxy=\dimen275
-\pgf@pathminx=\dimen276
-\pgf@pathmaxx=\dimen277
-\pgf@pathminy=\dimen278
-\pgf@pathmaxy=\dimen279
-\pgf@xx=\dimen280
-\pgf@xy=\dimen281
-\pgf@yx=\dimen282
-\pgf@yy=\dimen283
-\pgf@zx=\dimen284
-\pgf@zy=\dimen285
+\pgf@picminx=\dimen285
+\pgf@picmaxx=\dimen286
+\pgf@picminy=\dimen287
+\pgf@picmaxy=\dimen288
+\pgf@pathminx=\dimen289
+\pgf@pathmaxx=\dimen290
+\pgf@pathminy=\dimen291
+\pgf@pathmaxy=\dimen292
+\pgf@xx=\dimen293
+\pgf@xy=\dimen294
+\pgf@yx=\dimen295
+\pgf@yy=\dimen296
+\pgf@zx=\dimen297
+\pgf@zy=\dimen298
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen286
-\pgf@path@lasty=\dimen287
+\pgf@path@lastx=\dimen299
+\pgf@path@lasty=\dimen300
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen288
-\pgf@shorten@start@additional=\dimen289
+\pgf@shorten@end@additional=\dimen301
+\pgf@shorten@start@additional=\dimen302
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
@@ -632,19 +659,19 @@ File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box70
 \pgf@hbox=\box71
 \pgf@layerbox@main=\box72
-\pgf@picture@serial@count=\count351
+\pgf@picture@serial@count=\count356
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen290
+\pgflinewidth=\dimen303
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen291
-\pgf@pt@y=\dimen292
-\pgf@pt@temp=\dimen293
+\pgf@pt@x=\dimen304
+\pgf@pt@y=\dimen305
+\pgf@pt@temp=\dimen306
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
@@ -661,14 +688,14 @@ File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen294
+\pgfarrowsep=\dimen307
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen295
-\pgf@sys@shading@range@num=\count352
-\pgf@shadingcount=\count353
+\pgf@max=\dimen308
+\pgf@sys@shading@range@num=\count357
+\pgf@shadingcount=\count358
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
@@ -707,8 +734,8 @@ File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen296
-\pgf@nodesepend=\dimen297
+\pgf@nodesepstart=\dimen309
+\pgf@nodesepend=\dimen310
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
@@ -726,10 +753,10 @@ ty
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
 code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen298
-\pgffor@skip=\dimen299
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
+\pgffor@iter=\dimen311
+\pgffor@skip=\dimen312
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
 ))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -738,34 +765,34 @@ Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count354
-\pgfplotmarksize=\dimen300
+\pgf@plot@mark@count=\count359
+\pgfplotmarksize=\dimen313
 )
-\tikz@lastx=\dimen301
-\tikz@lasty=\dimen302
-\tikz@lastxsaved=\dimen303
-\tikz@lastysaved=\dimen304
-\tikz@lastmovetox=\dimen305
-\tikz@lastmovetoy=\dimen306
-\tikzleveldistance=\dimen307
-\tikzsiblingdistance=\dimen308
+\tikz@lastx=\dimen314
+\tikz@lasty=\dimen315
+\tikz@lastxsaved=\dimen316
+\tikz@lastysaved=\dimen317
+\tikz@lastmovetox=\dimen318
+\tikz@lastmovetoy=\dimen319
+\tikzleveldistance=\dimen320
+\tikzsiblingdistance=\dimen321
 \tikz@figbox=\box75
 \tikz@figbox@bg=\box76
 \tikz@tempbox=\box77
 \tikz@tempbox@bg=\box78
-\tikztreelevel=\count355
-\tikznumberofchildren=\count356
-\tikznumberofcurrentchild=\count357
-\tikz@fig@count=\count358
+\tikztreelevel=\count360
+\tikznumberofchildren=\count361
+\tikznumberofcurrentchild=\count362
+\tikz@fig@count=\count363
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count359
-\pgfmatrixcurrentcolumn=\count360
-\pgf@matrix@numberofcolumns=\count361
+\pgfmatrixcurrentrow=\count364
+\pgfmatrixcurrentcolumn=\count365
+\pgf@matrix@numberofcolumns=\count366
 )
-\tikz@expandcount=\count362
+\tikz@expandcount=\count367
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
@@ -773,10 +800,10 @@ File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count363
-\float@exts=\toks39
+\c@float@type=\count368
+\float@exts=\toks40
 \float@box=\box79
-\@float@everytoks=\toks40
+\@float@everytoks=\toks41
 \@floatcapt=\box80
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
@@ -787,43 +814,24 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen309
-\captionmargin=\dimen310
-\caption@leftmargin=\dimen311
-\caption@rightmargin=\dimen312
-\caption@width=\dimen313
-\caption@indent=\dimen314
-\caption@parindent=\dimen315
-\caption@hangindent=\dimen316
+\caption@tempdima=\dimen322
+\captionmargin=\dimen323
+\caption@leftmargin=\dimen324
+\caption@rightmargin=\dimen325
+\caption@width=\dimen326
+\caption@indent=\dimen327
+\caption@parindent=\dimen328
+\caption@hangindent=\dimen329
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count364
-\c@continuedfloat=\count365
+\c@caption@flags=\count369
+\c@continuedfloat=\count370
 Package caption Info: float package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count366
+\c@subfigure=\count371
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count367
-) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen317
-\lightrulewidth=\dimen318
-\cmidrulewidth=\dimen319
-\belowrulesep=\dimen320
-\belowbottomsep=\dimen321
-\aboverulesep=\dimen322
-\abovetopsep=\dimen323
-\cmidrulesep=\dimen324
-\cmidrulekern=\dimen325
-\defaultaddspace=\dimen326
-\@cmidla=\count368
-\@cmidlb=\count369
-\@aboverulesep=\dimen327
-\@belowrulesep=\dimen328
-\@thisruleclass=\count370
-\@lastruleclass=\count371
-\@thisrulewidth=\dimen329
+\c@subtable=\count372
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
@@ -832,10 +840,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks41
-\XKV@tempa@toks=\toks42
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
 )
-\XKV@depth=\count372
+\XKV@depth=\count373
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
@@ -870,11 +878,11 @@ File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count373
+\c@checkoddpage=\count374
 ) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box82
-\sift@deathcycles=\count374
+\sift@deathcycles=\count375
 \@vwid@loff=\dimen342
 \@vwid@roff=\dimen343
 )
@@ -886,8 +894,8 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@old@col=\dimen346
 \TX@target=\dimen347
 \TX@delta=\dimen348
-\TX@cols=\count375
-\TX@ftn=\toks43
+\TX@cols=\count376
+\TX@ftn=\toks44
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
 Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
@@ -899,7 +907,7 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-\c@@todonotes@numberoftodonotes=\count376
+\c@@todonotes@numberoftodonotes=\count377
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
@@ -911,7 +919,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count377
+\lrq@indent=\count378
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -920,63 +928,63 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count378
-\c@listtotal=\count379
-\c@listcount=\count380
-\c@liststart=\count381
-\c@liststop=\count382
-\c@citecount=\count383
-\c@citetotal=\count384
-\c@multicitecount=\count385
-\c@multicitetotal=\count386
-\c@instcount=\count387
-\c@maxnames=\count388
-\c@minnames=\count389
-\c@maxitems=\count390
-\c@minitems=\count391
-\c@citecounter=\count392
-\c@maxcitecounter=\count393
-\c@savedcitecounter=\count394
-\c@uniquelist=\count395
-\c@uniquename=\count396
-\c@refsection=\count397
-\c@refsegment=\count398
-\c@maxextratitle=\count399
-\c@maxextratitleyear=\count400
-\c@maxextraname=\count401
-\c@maxextradate=\count402
-\c@maxextraalpha=\count403
-\c@abbrvpenalty=\count404
-\c@highnamepenalty=\count405
-\c@lownamepenalty=\count406
-\c@maxparens=\count407
-\c@parenlevel=\count408
-\blx@tempcnta=\count409
-\blx@tempcntb=\count410
-\blx@tempcntc=\count411
-\c@blx@maxsection=\count412
-\blx@maxsegment@0=\count413
-\blx@notetype=\count414
-\blx@parenlevel@text=\count415
-\blx@parenlevel@foot=\count416
-\blx@sectionciteorder@0=\count417
-\blx@sectionciteorderinternal@0=\count418
-\blx@entrysetcounter=\count419
-\blx@biblioinstance=\count420
-\labelnumberwidth=\skip70
-\labelalphawidth=\skip71
-\biblabelsep=\skip72
-\bibitemsep=\skip73
-\bibnamesep=\skip74
-\bibinitsep=\skip75
-\bibparsep=\skip76
-\bibhang=\skip77
+\c@tabx@nest=\count379
+\c@listtotal=\count380
+\c@listcount=\count381
+\c@liststart=\count382
+\c@liststop=\count383
+\c@citecount=\count384
+\c@citetotal=\count385
+\c@multicitecount=\count386
+\c@multicitetotal=\count387
+\c@instcount=\count388
+\c@maxnames=\count389
+\c@minnames=\count390
+\c@maxitems=\count391
+\c@minitems=\count392
+\c@citecounter=\count393
+\c@maxcitecounter=\count394
+\c@savedcitecounter=\count395
+\c@uniquelist=\count396
+\c@uniquename=\count397
+\c@refsection=\count398
+\c@refsegment=\count399
+\c@maxextratitle=\count400
+\c@maxextratitleyear=\count401
+\c@maxextraname=\count402
+\c@maxextradate=\count403
+\c@maxextraalpha=\count404
+\c@abbrvpenalty=\count405
+\c@highnamepenalty=\count406
+\c@lownamepenalty=\count407
+\c@maxparens=\count408
+\c@parenlevel=\count409
+\blx@tempcnta=\count410
+\blx@tempcntb=\count411
+\blx@tempcntc=\count412
+\c@blx@maxsection=\count413
+\blx@maxsegment@0=\count414
+\blx@notetype=\count415
+\blx@parenlevel@text=\count416
+\blx@parenlevel@foot=\count417
+\blx@sectionciteorder@0=\count418
+\blx@sectionciteorderinternal@0=\count419
+\blx@entrysetcounter=\count420
+\blx@biblioinstance=\count421
+\labelnumberwidth=\skip71
+\labelalphawidth=\skip72
+\biblabelsep=\skip73
+\bibitemsep=\skip74
+\bibnamesep=\skip75
+\bibinitsep=\skip76
+\bibparsep=\skip77
+\bibhang=\skip78
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count421
-\c@maxcomprange=\count422
-\c@mincompwidth=\count423
+\c@mincomprange=\count422
+\c@maxcomprange=\count423
+\c@mincompwidth=\count424
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -987,88 +995,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count424
-\c@savedafterword=\count425
-\c@annotator=\count426
-\c@savedannotator=\count427
-\c@author=\count428
-\c@savedauthor=\count429
-\c@bookauthor=\count430
-\c@savedbookauthor=\count431
-\c@commentator=\count432
-\c@savedcommentator=\count433
-\c@editor=\count434
-\c@savededitor=\count435
-\c@editora=\count436
-\c@savededitora=\count437
-\c@editorb=\count438
-\c@savededitorb=\count439
-\c@editorc=\count440
-\c@savededitorc=\count441
-\c@foreword=\count442
-\c@savedforeword=\count443
-\c@holder=\count444
-\c@savedholder=\count445
-\c@introduction=\count446
-\c@savedintroduction=\count447
-\c@namea=\count448
-\c@savednamea=\count449
-\c@nameb=\count450
-\c@savednameb=\count451
-\c@namec=\count452
-\c@savednamec=\count453
-\c@translator=\count454
-\c@savedtranslator=\count455
-\c@shortauthor=\count456
-\c@savedshortauthor=\count457
-\c@shorteditor=\count458
-\c@savedshorteditor=\count459
-\c@labelname=\count460
-\c@savedlabelname=\count461
-\c@institution=\count462
-\c@savedinstitution=\count463
-\c@lista=\count464
-\c@savedlista=\count465
-\c@listb=\count466
-\c@savedlistb=\count467
-\c@listc=\count468
-\c@savedlistc=\count469
-\c@listd=\count470
-\c@savedlistd=\count471
-\c@liste=\count472
-\c@savedliste=\count473
-\c@listf=\count474
-\c@savedlistf=\count475
-\c@location=\count476
-\c@savedlocation=\count477
-\c@organization=\count478
-\c@savedorganization=\count479
-\c@origlocation=\count480
-\c@savedoriglocation=\count481
-\c@origpublisher=\count482
-\c@savedorigpublisher=\count483
-\c@publisher=\count484
-\c@savedpublisher=\count485
-\c@language=\count486
-\c@savedlanguage=\count487
-\c@origlanguage=\count488
-\c@savedoriglanguage=\count489
-\c@pageref=\count490
-\c@savedpageref=\count491
-\shorthandwidth=\skip78
-\shortjournalwidth=\skip79
-\shortserieswidth=\skip80
-\shorttitlewidth=\skip81
-\shortauthorwidth=\skip82
-\shorteditorwidth=\skip83
-\locallabelnumberwidth=\skip84
-\locallabelalphawidth=\skip85
-\localshorthandwidth=\skip86
-\localshortjournalwidth=\skip87
-\localshortserieswidth=\skip88
-\localshorttitlewidth=\skip89
-\localshortauthorwidth=\skip90
-\localshorteditorwidth=\skip91
+\c@afterword=\count425
+\c@savedafterword=\count426
+\c@annotator=\count427
+\c@savedannotator=\count428
+\c@author=\count429
+\c@savedauthor=\count430
+\c@bookauthor=\count431
+\c@savedbookauthor=\count432
+\c@commentator=\count433
+\c@savedcommentator=\count434
+\c@editor=\count435
+\c@savededitor=\count436
+\c@editora=\count437
+\c@savededitora=\count438
+\c@editorb=\count439
+\c@savededitorb=\count440
+\c@editorc=\count441
+\c@savededitorc=\count442
+\c@foreword=\count443
+\c@savedforeword=\count444
+\c@holder=\count445
+\c@savedholder=\count446
+\c@introduction=\count447
+\c@savedintroduction=\count448
+\c@namea=\count449
+\c@savednamea=\count450
+\c@nameb=\count451
+\c@savednameb=\count452
+\c@namec=\count453
+\c@savednamec=\count454
+\c@translator=\count455
+\c@savedtranslator=\count456
+\c@shortauthor=\count457
+\c@savedshortauthor=\count458
+\c@shorteditor=\count459
+\c@savedshorteditor=\count460
+\c@labelname=\count461
+\c@savedlabelname=\count462
+\c@institution=\count463
+\c@savedinstitution=\count464
+\c@lista=\count465
+\c@savedlista=\count466
+\c@listb=\count467
+\c@savedlistb=\count468
+\c@listc=\count469
+\c@savedlistc=\count470
+\c@listd=\count471
+\c@savedlistd=\count472
+\c@liste=\count473
+\c@savedliste=\count474
+\c@listf=\count475
+\c@savedlistf=\count476
+\c@location=\count477
+\c@savedlocation=\count478
+\c@organization=\count479
+\c@savedorganization=\count480
+\c@origlocation=\count481
+\c@savedoriglocation=\count482
+\c@origpublisher=\count483
+\c@savedorigpublisher=\count484
+\c@publisher=\count485
+\c@savedpublisher=\count486
+\c@language=\count487
+\c@savedlanguage=\count488
+\c@origlanguage=\count489
+\c@savedoriglanguage=\count490
+\c@pageref=\count491
+\c@savedpageref=\count492
+\shorthandwidth=\skip79
+\shortjournalwidth=\skip80
+\shortserieswidth=\skip81
+\shorttitlewidth=\skip82
+\shortauthorwidth=\skip83
+\shorteditorwidth=\skip84
+\locallabelnumberwidth=\skip85
+\locallabelalphawidth=\skip86
+\localshorthandwidth=\skip87
+\localshortjournalwidth=\skip88
+\localshortserieswidth=\skip89
+\localshorttitlewidth=\skip90
+\localshortauthorwidth=\skip91
+\localshorteditorwidth=\skip92
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -1084,19 +1092,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count492
-\c@textcitetotal=\count493
-\c@textcitemaxnames=\count494
-\c@biburlbigbreakpenalty=\count495
-\c@biburlbreakpenalty=\count496
-\c@biburlnumpenalty=\count497
-\c@biburlucpenalty=\count498
-\c@biburllcpenalty=\count499
+\c@textcitecount=\count493
+\c@textcitetotal=\count494
+\c@textcitemaxnames=\count495
+\c@biburlbigbreakpenalty=\count496
+\c@biburlbreakpenalty=\count497
+\c@biburlnumpenalty=\count498
+\c@biburlucpenalty=\count499
+\c@biburllcpenalty=\count500
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count500
+\c@smartand=\count501
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -1110,8 +1118,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count501
-\c@bbx:relatedtotal=\count502
+\c@bbx:relatedcount=\count502
+\c@bbx:relatedtotal=\count503
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -1150,17 +1158,17 @@ Package biblatex Info: ... and expl3
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count503
+\lst@mode=\count504
 \lst@gtempboxa=\box83
-\lst@token=\toks44
-\lst@length=\count504
+\lst@token=\toks45
+\lst@length=\count505
 \lst@currlwidth=\dimen349
-\lst@column=\count505
-\lst@pos=\count506
+\lst@column=\count506
+\lst@pos=\count507
 \lst@lostspace=\dimen350
 \lst@width=\dimen351
-\lst@newlines=\count507
-\lst@lineno=\count508
+\lst@newlines=\count508
+\lst@lineno=\count509
 \lst@maxwidth=\dimen352
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
@@ -1168,8 +1176,8 @@ File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
-\c@lstnumber=\count509
-\lst@skipnumbers=\count510
+\c@lstnumber=\count510
+\lst@skipnumbers=\count511
 \lst@framebox=\box84
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
@@ -1204,7 +1212,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count511
+\c@section@level=\count512
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
@@ -1212,14 +1220,14 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen353
-\Hy@linkcounter=\count512
-\Hy@pagecounter=\count513
+\Hy@linkcounter=\count513
+\Hy@pagecounter=\count514
  (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count514
+\Hy@SavedSpaceFactor=\count515
  (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 )
@@ -1230,7 +1238,7 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count515
+\c@Hy@tempcnt=\count516
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen354
 
@@ -1242,7 +1250,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count516
+\Fld@menulength=\count517
 \Field@Width=\dimen355
 \Fld@charsize=\dimen356
 Package hyperref Info: Hyper figures OFF on input line 6078.
@@ -1252,19 +1260,19 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count517
-\c@Item=\count518
-\c@Hfootnote=\count519
+\Hy@abspage=\count518
+\c@Item=\count519
+\c@Hfootnote=\count520
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
 \pdfm@box=\box85
-\c@Hy@AnnotLevel=\count520
-\HyField@AnnotCount=\count521
-\Fld@listcount=\count522
-\c@bookmark@seq@number=\count523
+\c@Hy@AnnotLevel=\count521
+\HyField@AnnotCount=\count522
+\Fld@listcount=\count523
+\c@bookmark@seq@number=\count524
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -1277,9 +1285,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip92
+\Hy@SectionHShift=\skip93
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 103.
+Package hyperref Info: Option `colorlinks' set `true' on input line 106.
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
 ies.sty
@@ -1287,8 +1295,8 @@ Package: glossaries 2026/04/21 v5.1 (NLCT)
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
-\@glsmfirst=\toks45
-\@glsmrest=\toks46
+\@glsmfirst=\toks46
+\@glsmrest=\toks47
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -1316,12 +1324,12 @@ ssaries-portuges-utf8.ldf))
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
 sty
 Package: datatool-base 2025/12/04 v3.4.3 (NLCT)
-\l__datatool_tmpa_int=\count524
-\l__datatool_tmpb_int=\count525
-\l__datatool_tmpc_int=\count526
-\l__datatool_tmpd_int=\count527
-\l__datatool_count_int=\count528
-\l__datatool_tmp_datatype_int=\count529
+\l__datatool_tmpa_int=\count525
+\l__datatool_tmpb_int=\count526
+\l__datatool_tmpc_int=\count527
+\l__datatool_tmpd_int=\count528
+\l__datatool_count_int=\count529
+\l__datatool_tmp_datatype_int=\count530
 \l__datatool_tmpa_dim=\dimen357
 \l__datatool_tmpb_dim=\dimen358
 
@@ -1329,31 +1337,31 @@ Package: datatool-base 2025/12/04 v3.4.3 (NLCT)
 def
 File: datatool-l3fp.def 2025/12/04 v3.4.3 (NLCT)
 )
-\@dtl@toks=\toks47
-\@dtl@tmpcount=\count530
-\dtl@tmplength=\skip93
+\@dtl@toks=\toks48
+\@dtl@tmpcount=\count531
+\dtl@tmplength=\skip94
 \l__datatool_measure_box=\box86
-\dtl@sortresult=\count531
+\dtl@sortresult=\count532
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
 ldf
 File: datatool-utf8.ldf 2025/12/04 v3.4.3 (NLCT)
 )
-\@dtl@datatype=\count532
-\c_datatool_unknown_int=\count533
-\l__datatool_year_int=\count534
-\l__datatool_month_int=\count535
-\l__datatool_day_int=\count536
-\l__datatool_hour_int=\count537
-\l__datatool_minute_int=\count538
-\l__datatool_second_int=\count539
-\l__datatool_tzhour_int=\count540
-\l__datatool_tzminute_int=\count541
-\l__datatool_julian_int=\count542
-\l__datatool_local_julian_int=\count543
-\l__datatool_prefix_int=\count544
-\l__datatool_suffix_int=\count545
-\@dtl@foreach@level=\count546
+\@dtl@datatype=\count533
+\c_datatool_unknown_int=\count534
+\l__datatool_year_int=\count535
+\l__datatool_month_int=\count536
+\l__datatool_day_int=\count537
+\l__datatool_hour_int=\count538
+\l__datatool_minute_int=\count539
+\l__datatool_second_int=\count540
+\l__datatool_tzhour_int=\count541
+\l__datatool_tzminute_int=\count542
+\l__datatool_julian_int=\count543
+\l__datatool_local_julian_int=\count544
+\l__datatool_prefix_int=\count545
+\l__datatool_suffix_int=\count546
+\@dtl@foreach@level=\count547
 
 
 Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
@@ -1363,18 +1371,18 @@ Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
 Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
  line 9924.
 
-\dtl@codeA=\count547
-\dtl@codeB=\count548
+\dtl@codeA=\count548
+\dtl@codeB=\count549
 )
-\gls@level=\count549
-\@gls@tmpb=\toks48
-\gls@tmplen=\skip94
+\gls@level=\count550
+\@gls@tmpb=\toks49
+\gls@tmplen=\skip95
 \l__glossaries_tmpa_dim=\dimen359
 \l__glossaries_tmpb_dim=\dimen360
-\glskeylisttok=\toks49
-\glslabeltok=\toks50
-\glsshorttok=\toks51
-\glslongtok=\toks52
+\glskeylisttok=\toks50
+\glslabeltok=\toks51
+\glsshorttok=\toks52
+\glslongtok=\toks53
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-hypernav.sty
@@ -1383,7 +1391,7 @@ Package: glossary-hypernav 2026/04/21 v5.1 (NLCT)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-list.sty
 Package: glossary-list 2026/04/21 v5.1 (NLCT)
-\glslistdottedwidth=\skip95
+\glslistdottedwidth=\skip96
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-long.sty
@@ -1391,25 +1399,25 @@ Package: glossary-long 2026/04/21 v5.1 (NLCT)
 
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
-\LTleft=\skip96
-\LTright=\skip97
-\LTpre=\skip98
-\LTpost=\skip99
-\LTchunksize=\count550
+\LTleft=\skip97
+\LTright=\skip98
+\LTpre=\skip99
+\LTpost=\skip100
+\LTchunksize=\count551
 \LTcapwidth=\dimen361
 \LT@head=\box87
 \LT@firsthead=\box88
 \LT@foot=\box89
 \LT@lastfoot=\box90
 \LT@gbox=\box91
-\LT@cols=\count551
-\LT@rows=\count552
-\c@LT@tables=\count553
-\c@LT@chunks=\count554
-\LT@p@ftn=\toks53
+\LT@cols=\count552
+\LT@rows=\count553
+\c@LT@tables=\count554
+\c@LT@chunks=\count555
+\LT@p@ftn=\toks54
 )
-\glsdescwidth=\skip100
-\glspagelistwidth=\skip101
+\glsdescwidth=\skip101
+\glspagelistwidth=\skip102
 )
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-super.sty
@@ -1418,11 +1426,11 @@ Package: glossary-super 2026/04/21 v5.1 (NLCT)
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
 ar.sty
 Package: supertabular 2025/06/26 v4.2d the supertabular environment
-\c@tracingst=\count555
+\c@tracingst=\count556
 \ST@wd=\dimen362
-\ST@rightskip=\skip102
-\ST@leftskip=\skip103
-\ST@parfillskip=\skip104
+\ST@rightskip=\skip103
+\ST@leftskip=\skip104
+\ST@parfillskip=\skip105
 \ST@pageleft=\dimen363
 \ST@headht=\dimen364
 \ST@tailht=\dimen365
@@ -1437,7 +1445,7 @@ Package: supertabular 2025/06/26 v4.2d the supertabular environment
 (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-tree.sty
 Package: glossary-tree 2026/04/21 v5.1 (NLCT)
-\l__glossaries_tree_max_known_level_int=\count556
+\l__glossaries_tree_max_known_level_int=\count557
 \l__glossaries_tree_offset_dim=\dimen372
 \l__glossaries_tree_namewidth_dim=\dimen373
 \l__glossaries_tree_symbolwidth_dim=\dimen374
@@ -1447,51 +1455,51 @@ Package: glossary-tree 2026/04/21 v5.1 (NLCT)
 \l__glossaries_tree_symbolwidth_padding_dim=\dimen378
 \l__glossaries_tree_namesymbolwidth_dim=\dimen379
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen380
-\l__glossaries_tree_level_int=\count557
-\glstreeindent=\skip105
+\l__glossaries_tree_level_int=\count558
+\glstreeindent=\skip106
 ))
 \glswrite=\write5
 \glo@main@file=\write6
 \openout6 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 107.
+Package glossaries Info: Writing glossary file main.glo on input line 110.
 \glo@acronym@file=\write7
 \openout7 = `main.acn'.
 
-Package glossaries Info: Writing glossary file main.acn on input line 107.
+Package glossaries Info: Writing glossary file main.acn on input line 110.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count558
-\@quotereset=\count559
+\@quotelevel=\count559
+\@quotereset=\count560
 (main.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 19.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1499,64 +1507,64 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 129.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 129.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 129.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 129.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 129.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 129.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 129.
-LaTeX Font Info:    Redeclaring math accent \check on input line 129.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 129.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 129.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 129.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 129.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 129.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 132.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 132.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 132.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 132.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 132.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 132.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 132.
+LaTeX Font Info:    Redeclaring math accent \check on input line 132.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 132.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 132.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 132.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 132.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 129.
+(Font)              `operators' in the math version `normal' on input line 132.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
-29.
+32.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 129.
+(Font)              `operators' in the math version `bold' on input line 132.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-129.
+132.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 129.
+input line 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 129.
+ 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-129.
+132.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 129.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 129.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 132.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 129.
+input line 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 129.
+e 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 129.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 129.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 132.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1599,9 +1607,9 @@ File: translations-basic-dictionary-brazil.trsl (brazil translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `brazil'. on input line 129.
+or `brazil'. on input line 132.
 
-Package chemgreek Info: Activating mapping `fontspec' on line 129.
+Package chemgreek Info: Activating mapping `fontspec' on line 132.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
@@ -1641,15 +1649,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 129.
-Package biblatex Info: Reference segment=0 on input line 129.
-\c@lstlisting=\count560
-Package hyperref Info: Link coloring ON on input line 129.
+Package biblatex Info: Reference section=0 on input line 132.
+Package biblatex Info: Reference segment=0 on input line 132.
+\c@lstlisting=\count561
+Package hyperref Info: Link coloring ON on input line 132.
  (main.out) (main.out)
 \@outlinefile=\write8
 \openout8 = `main.out'.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 134.
+Package hyperref Info: Option `pageanchor' set `false' on input line 137.
 File: ufrj-logo.pdf Graphic file (type pdf)
 <use ufrj-logo.pdf>
 File: coppe-logo.pdf Graphic file (type pdf)
@@ -1659,20 +1667,24 @@ File: coppe-logo.pdf Graphic file (type pdf)
 \openout5 = `main.ist'.
 
 ]
-Package hyperref Info: Option `pageanchor' set `true' on input line 185.
+Package hyperref Info: Option `pageanchor' set `true' on input line 188.
  (main.toc)
 \tf@toc=\write9
 \openout9 = `main.toc'.
 
  [1] [1
 
-] [2] [3]
+] [2]
+File: bancada.jpeg Graphic file (type bmp)
+<bancada.jpeg>
+ [3] [4]
+[5] [6] [7]
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-[4] (main.aux)
+[8] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1684,12 +1696,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48618 strings out of 402987
- 1045723 string characters out of 5448523
- 1966883 words of memory out of 5000000
- 76772 multiletter control sequences out of 15000+600000
- 631659 words of font info for 74 fonts, out of 8000000 for 9000
+ 48758 strings out of 402987
+ 1048622 string characters out of 5448523
+ 2028737 words of memory out of 5000000
+ 76903 multiletter control sequences out of 15000+600000
+ 632137 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,6n,94p,2489b,5768s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,94p,2489b,5772s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (10 pages).
